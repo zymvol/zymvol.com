@@ -1,0 +1,12 @@
+/*
+	Theme Name: Zymvol
+	Version: 1.0
+*/
+
+a[href="#no-follow"]{
+	cursor: default;
+}
+
+.wpcf7-spinner{
+	position: absolute;
+}
