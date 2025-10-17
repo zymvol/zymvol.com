@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- This sitemap was dynamically generated on October 16, 2025 at 4:21 pm by All in One SEO v4.8.7 - the original SEO plugin for WordPress. -->
+<!-- This sitemap was dynamically generated on October 17, 2025 at 8:54 am by All in One SEO v4.8.7 - the original SEO plugin for WordPress. -->
 
-<?xml-stylesheet type="text/xsl" href="./main-sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="/zymvol.com/main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc><![CDATA[./page-sitemap.xml]]></loc>
+		<loc><![CDATA[/zymvol.com/page-sitemap.xml]]></loc>
 		<lastmod><![CDATA[2025-10-14T04:08:41+00:00]]></lastmod>
 	</sitemap>
 	<sitemap>
-		<loc><![CDATA[./attachment-sitemap.xml]]></loc>
+		<loc><![CDATA[/zymvol.com/attachment-sitemap.xml]]></loc>
 		<lastmod><![CDATA[2025-10-14T04:08:30+00:00]]></lastmod>
 	</sitemap>
 	<sitemap>
-		<loc><![CDATA[./ssp-form-sitemap.xml]]></loc>
+		<loc><![CDATA[/zymvol.com/ssp-form-sitemap.xml]]></loc>
 		<lastmod><![CDATA[2025-10-16T16:05:29+00:00]]></lastmod>
 	</sitemap>
 	<sitemap>
-		<loc><![CDATA[./stories-sitemap.xml]]></loc>
+		<loc><![CDATA[/zymvol.com/stories-sitemap.xml]]></loc>
 		<lastmod><![CDATA[2025-10-07T15:56:42+00:00]]></lastmod>
 	</sitemap>
 	<sitemap>
-		<loc><![CDATA[./scientific-sitemap.xml]]></loc>
+		<loc><![CDATA[/zymvol.com/scientific-sitemap.xml]]></loc>
 		<lastmod><![CDATA[2025-09-12T14:15:44+00:00]]></lastmod>
 	</sitemap>
 	<sitemap>
-		<loc><![CDATA[./knowledge-hub-sitemap.xml]]></loc>
+		<loc><![CDATA[/zymvol.com/knowledge-hub-sitemap.xml]]></loc>
 		<lastmod><![CDATA[2025-10-10T11:04:43+00:00]]></lastmod>
 	</sitemap>
 	<sitemap>
-		<loc><![CDATA[./public_project-sitemap.xml]]></loc>
+		<loc><![CDATA[/zymvol.com/public_project-sitemap.xml]]></loc>
 		<lastmod><![CDATA[2025-10-13T11:53:25+00:00]]></lastmod>
 	</sitemap>
 	<sitemap>
-		<loc><![CDATA[./post-archive-sitemap.xml]]></loc>
+		<loc><![CDATA[/zymvol.com/post-archive-sitemap.xml]]></loc>
 		<lastmod><![CDATA[2025-10-10T11:04:43+00:00]]></lastmod>
 	</sitemap>
 </sitemapindex>
