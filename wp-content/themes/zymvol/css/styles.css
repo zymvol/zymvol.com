@@ -18196,13 +18196,13 @@ p {
 }
 
 .mask-3-blocks {
-	-webkit-mask-image: url(./../images/shape-3-blocks.svg);
-	        mask-image: url(./../images/shape-3-blocks.svg);
+	-webkit-mask-image: url(/zymvol.com/wp-content/themes/zymvol/images/shape-3-blocks.svg);
+	        mask-image: url(/zymvol.com/wp-content/themes/zymvol/images/shape-3-blocks.svg);
 }
 
 .mask-3-blocks-diagonal {
-	-webkit-mask-image: url(./../images/shape-3-blocks-diagonal.svg);
-	        mask-image: url(./../images/shape-3-blocks-diagonal.svg);
+	-webkit-mask-image: url(/zymvol.com/wp-content/themes/zymvol/images/shape-3-blocks-diagonal.svg);
+	        mask-image: url(/zymvol.com/wp-content/themes/zymvol/images/shape-3-blocks-diagonal.svg);
 }
 
 /* image-shape */
@@ -18466,8 +18466,8 @@ p {
 	display: inline-block;
 	width: 3rem;
 	aspect-ratio: 1/1;
-	-webkit-mask-image: url(./../images/arrow-blue-01.svg);
-	        mask-image: url(./../images/arrow-blue-01.svg);
+	-webkit-mask-image: url(/zymvol.com/wp-content/themes/zymvol/images/arrow-blue-01.svg);
+	        mask-image: url(/zymvol.com/wp-content/themes/zymvol/images/arrow-blue-01.svg);
 	-webkit-mask-repeat: no-repeat;
 	        mask-repeat: no-repeat;
 	-webkit-mask-size: 100% 100%;
@@ -18485,8 +18485,8 @@ p {
 	display: inline-block;
 	width: 3rem;
 	aspect-ratio: 1/1;
-	-webkit-mask-image: url(./../images/arrow-blue-01.svg);
-	        mask-image: url(./../images/arrow-blue-01.svg);
+	-webkit-mask-image: url(/zymvol.com/wp-content/themes/zymvol/images/arrow-blue-01.svg);
+	        mask-image: url(/zymvol.com/wp-content/themes/zymvol/images/arrow-blue-01.svg);
 	-webkit-mask-repeat: no-repeat;
 	        mask-repeat: no-repeat;
 	-webkit-mask-size: 100% 100%;
@@ -18508,8 +18508,8 @@ p {
 	display: block;
 	width: 3rem;
 	aspect-ratio: 1/1;
-	-webkit-mask-image: url(./../images/arrow-blue-01.svg);
-	        mask-image: url(./../images/arrow-blue-01.svg);
+	-webkit-mask-image: url(/zymvol.com/wp-content/themes/zymvol/images/arrow-blue-01.svg);
+	        mask-image: url(/zymvol.com/wp-content/themes/zymvol/images/arrow-blue-01.svg);
 	-webkit-mask-repeat: no-repeat;
 	        mask-repeat: no-repeat;
 	-webkit-mask-size: 100% 100%;
@@ -19100,7 +19100,7 @@ p {
 	display: block;
 	width: 3rem;
 	height: 3rem;
-	background: url(./../images/arrow-blue-01.svg) no-repeat;
+	background: url(/zymvol.com/wp-content/themes/zymvol/images/arrow-blue-01.svg) no-repeat;
 	opacity: 0;
 	content: "";
 	transition: all 0.15s;
@@ -25128,8 +25128,8 @@ p {
 	--mask-item-height: var(--mask-item-width);
 	width: var(--mask-item-width);
 	height: var(--mask-item-height);
-	-webkit-mask-image: url(./../images/ico-arrow-external-link-white-002.svg);
-	        mask-image: url(./../images/ico-arrow-external-link-white-002.svg);
+	-webkit-mask-image: url(/zymvol.com/wp-content/themes/zymvol/images/ico-arrow-external-link-white-002.svg);
+	        mask-image: url(/zymvol.com/wp-content/themes/zymvol/images/ico-arrow-external-link-white-002.svg);
 	-webkit-mask-repeat: no-repeat;
 	        mask-repeat: no-repeat;
 	-webkit-mask-size: var(--mask-item-width) var(--mask-item-height);
@@ -25515,8 +25515,8 @@ textarea.form-control {
 	width: var(--mask-item-width);
 	height: var(--mask-item-height);
 	flex-shrink: 0;
-	-webkit-mask-image: url(./../images/ico-arrow-down-white-001.svg);
-	        mask-image: url(./../images/ico-arrow-down-white-001.svg);
+	-webkit-mask-image: url(/zymvol.com/wp-content/themes/zymvol/images/ico-arrow-down-white-001.svg);
+	        mask-image: url(/zymvol.com/wp-content/themes/zymvol/images/ico-arrow-down-white-001.svg);
 	-webkit-mask-repeat: no-repeat;
 	        mask-repeat: no-repeat;
 	-webkit-mask-size: var(--mask-item-width) var(--mask-item-height);
@@ -25594,8 +25594,8 @@ textarea.form-control {
 	width: var(--mask-item-width);
 	height: var(--mask-item-height);
 	flex-shrink: 0;
-	-webkit-mask-image: url(./../images/ico-arrow-external-link-white-001.svg);
-	        mask-image: url(./../images/ico-arrow-external-link-white-001.svg);
+	-webkit-mask-image: url(/zymvol.com/wp-content/themes/zymvol/images/ico-arrow-external-link-white-001.svg);
+	        mask-image: url(/zymvol.com/wp-content/themes/zymvol/images/ico-arrow-external-link-white-001.svg);
 	-webkit-mask-repeat: no-repeat;
 	        mask-repeat: no-repeat;
 	-webkit-mask-size: var(--mask-item-width) var(--mask-item-height);
@@ -25925,8 +25925,8 @@ textarea.form-control {
 	width: var(--mask-item-width);
 	height: var(--mask-item-height);
 	flex-shrink: 0;
-	-webkit-mask-image: url(./../images/ico-butterfly-white-001.svg);
-	        mask-image: url(./../images/ico-butterfly-white-001.svg);
+	-webkit-mask-image: url(/zymvol.com/wp-content/themes/zymvol/images/ico-butterfly-white-001.svg);
+	        mask-image: url(/zymvol.com/wp-content/themes/zymvol/images/ico-butterfly-white-001.svg);
 	-webkit-mask-repeat: no-repeat;
 	        mask-repeat: no-repeat;
 	-webkit-mask-size: var(--mask-item-width) var(--mask-item-height);
@@ -26289,8 +26289,8 @@ textarea.form-control {
 	        mask-repeat: no-repeat;
 	-webkit-mask-size: 100% 100%;
 	        mask-size: 100% 100%;
-	-webkit-mask-image: url(./../images/shape-3-blocks-002.svg);
-	        mask-image: url(./../images/shape-3-blocks-002.svg);
+	-webkit-mask-image: url(/zymvol.com/wp-content/themes/zymvol/images/shape-3-blocks-002.svg);
+	        mask-image: url(/zymvol.com/wp-content/themes/zymvol/images/shape-3-blocks-002.svg);
 }
 .story-card .story-card-image .story-card-image-placeholder .story-card-image-fader {
 	font-size: 0;
@@ -26384,8 +26384,8 @@ textarea.form-control {
 		aspect-ratio: 2.58/1;
 	}
 	.story-card .story-card-image .story-card-image-placeholder {
-		-webkit-mask-image: url(./../images/shape-2-blocks-horizontal.svg);
-		        mask-image: url(./../images/shape-2-blocks-horizontal.svg);
+		-webkit-mask-image: url(/zymvol.com/wp-content/themes/zymvol/images/shape-2-blocks-horizontal.svg);
+		        mask-image: url(/zymvol.com/wp-content/themes/zymvol/images/shape-2-blocks-horizontal.svg);
 	}
 	.story-card .story-card-body .story-card-body-badge-row .badge {
 		font-size: 1.75rem;
@@ -32490,10 +32490,10 @@ body .cky-consent-container .cky-consent-bar::before {
 	content: "";
 	width: 15.5rem;
 	flex-shrink: 0;
-	background: url(./../images/img-cookies-popup-001.webp) no-repeat;
+	background: url(/zymvol.com/wp-content/themes/zymvol/images/img-cookies-popup-001.webp) no-repeat;
 	background-size: cover;
-	-webkit-mask-image: url(./../images/shape-3-blocks-diagonal-reverse.svg);
-	        mask-image: url(./../images/shape-3-blocks-diagonal-reverse.svg);
+	-webkit-mask-image: url(/zymvol.com/wp-content/themes/zymvol/images/shape-3-blocks-diagonal-reverse.svg);
+	        mask-image: url(/zymvol.com/wp-content/themes/zymvol/images/shape-3-blocks-diagonal-reverse.svg);
 	-webkit-mask-repeat: no-repeat;
 	        mask-repeat: no-repeat;
 	-webkit-mask-size: 100% 100%;
