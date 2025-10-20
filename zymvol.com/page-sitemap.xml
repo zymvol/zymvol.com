@@ -1,650 +1,650 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- This sitemap was dynamically generated on October 20, 2025 at 4:34 am by All in One SEO v4.8.7 - the original SEO plugin for WordPress. -->
+<!-- This sitemap was dynamically generated on October 20, 2025 at 9:44 am by All in One SEO v4.8.7 - the original SEO plugin for WordPress. -->
 
-<?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://zymvol.com/main-sitemap.xsl"?>
 <urlset
 	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
 	xmlns:xhtml="http://www.w3.org/1999/xhtml"
 	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
 >
 	<url>
-		<loc><![CDATA[//]]></loc>
+		<loc><![CDATA[https://zymvol.com/]]></loc>
 		<lastmod><![CDATA[2025-10-15T10:22:42+00:00]]></lastmod>
 		<changefreq><![CDATA[always]]></changefreq>
 		<priority><![CDATA[1]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/img-hero-banner-001.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/img-hero-banner-001.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/img-hero-banner-002.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/img-hero-banner-002.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/09/logo-boehringer-001.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/09/logo-boehringer-001.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/09/logo-sanofi-001.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/09/logo-sanofi-001.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/09/logo-axplora-001.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/09/logo-axplora-001.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/09/logo-solvay-001.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/09/logo-solvay-001.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/09/logo-medichem-001.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/09/logo-medichem-001.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/09/logo-rubi-001.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/09/logo-rubi-001.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/10/Enzyme_Optimization.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/10/Enzyme_Optimization.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/10/Enzyme_Discovery.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/10/Enzyme_Discovery.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/img-shape-purple-001.svg]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/img-shape-purple-001.svg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/img-shape-orange-001.svg]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/img-shape-orange-001.svg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/img-shape-green-001.svg]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/img-shape-green-001.svg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/img-image-card-001.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/img-image-card-001.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/img-image-card-002.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/img-image-card-002.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/img-image-card-003.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/img-image-card-003.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/img-image-card-004.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/img-image-card-004.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/10/Great_Science.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/10/Great_Science.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/ico-01-2.svg]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/ico-01-2.svg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/shape-enzyme-003-1.svg]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/shape-enzyme-003-1.svg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/shape-enzyme-004-1.svg]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/shape-enzyme-004-1.svg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/ico-logo-dark-blue-001.svg]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/ico-logo-dark-blue-001.svg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/img-image-text-section-001.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/img-image-text-section-001.webp]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[//about/]]></loc>
+		<loc><![CDATA[https://zymvol.com/about/]]></loc>
 		<lastmod><![CDATA[2025-10-15T19:57:57+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/10/About_Image.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/10/About_Image.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/img-info-section-001.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/img-info-section-001.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/bg-texture-blue-003.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/bg-texture-blue-003.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/10/zymvol-icon-changemakers.svg]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/10/zymvol-icon-changemakers.svg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/10/zymvol-icon-innovative.svg]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/10/zymvol-icon-innovative.svg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/10/zymvol-icon-transparent.svg]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/10/zymvol-icon-transparent.svg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/10/zymvol-icon-commited.svg]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/10/zymvol-icon-commited.svg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/10/zymvol-icon-welcoming.svg]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/10/zymvol-icon-welcoming.svg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/09/Profile_MariaFatimaLucas_.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/09/Profile_MariaFatimaLucas_.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/09/Profile_MarinaCanellas_.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/09/Profile_MarinaCanellas_.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/09/Profile_JesusSeco_.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/09/Profile_JesusSeco_.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/09/Profile_DanielDias_.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/09/Profile_DanielDias_.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/09/Profile_BrianJimenez_.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/09/Profile_BrianJimenez_.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/09/Profile_LurAlonso_.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/09/Profile_LurAlonso_.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/09/Profile_FerranSancho_.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/09/Profile_FerranSancho_.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/09/Profile_RosaAbadie_.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/09/Profile_RosaAbadie_.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/09/Profile_CarlaLlagostera_.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/09/Profile_CarlaLlagostera_.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/09/Profile_EnaBhalla_.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/09/Profile_EnaBhalla_.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/09/Profile_AndreaMartinezBernardini_.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/09/Profile_AndreaMartinezBernardini_.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/09/Profile_AdrianRamon_.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/09/Profile_AdrianRamon_.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/09/Profile_NereaCapon_.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/09/Profile_NereaCapon_.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/09/Profile_ValeriaGonzalez_.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/09/Profile_ValeriaGonzalez_.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/09/Profile_GerardMargalef_.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/09/Profile_GerardMargalef_.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/09/Profile_InakiBedoya_.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/09/Profile_InakiBedoya_.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/09/Profile_CannaZheng_.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/09/Profile_CannaZheng_.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/09/Profile_FleurRuijne_.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/09/Profile_FleurRuijne_.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/09/Profile_MiquelCanellas_.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/09/Profile_MiquelCanellas_.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/09/Profile_JoaoTeixeira.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/09/Profile_JoaoTeixeira.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/09/Profile_MahdiHassankalhori_.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/09/Profile_MahdiHassankalhori_.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/09/Profile_LauraTiesler_.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/09/Profile_LauraTiesler_.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/09/Profile_PierreMonsan_.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/09/Profile_PierreMonsan_.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/09/Profile_SebastienLefevre_.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/09/Profile_SebastienLefevre_.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/09/Profile_JohnNicols_.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/09/Profile_JohnNicols_.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/09/ManelArrufat_-Advisor.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/09/ManelArrufat_-Advisor.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/09/NikolaLoncar_Advisor.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/09/NikolaLoncar_Advisor.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/09/EnriqueShadah_Advisor.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/09/EnriqueShadah_Advisor.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/09/IldebrandoLucas_Advisor.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/09/IldebrandoLucas_Advisor.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/09/AlessandraBasso_Advisor.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/09/AlessandraBasso_Advisor.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/09/MariaJoaoRamos_Advisor.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/09/MariaJoaoRamos_Advisor.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/09/WillemJHVanBerkelAdvisor.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/09/WillemJHVanBerkelAdvisor.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/shape-enzyme-002.svg]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/shape-enzyme-002.svg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/logo-logos-card-005.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/logo-logos-card-005.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/logo-logos-card-001.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/logo-logos-card-001.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/logo-logos-card-002.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/logo-logos-card-002.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/09/InnovationRadarPrize_Award.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/09/InnovationRadarPrize_Award.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/09/Mesa-de-trabajo-2Collaborator.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/09/Mesa-de-trabajo-2Collaborator.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/logo-logos-card-007.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/logo-logos-card-007.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/logo-logos-card-008.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/logo-logos-card-008.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/logo-logos-card-009.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/logo-logos-card-009.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/logo-logos-card-010.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/logo-logos-card-010.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/logo-logos-card-011-e1759068666675.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/logo-logos-card-011-e1759068666675.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/logo-logos-card-011.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/logo-logos-card-011.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/09/Investor_Masia-e1759068616196.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/09/Investor_Masia-e1759068616196.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/09/Investor_Masia.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/09/Investor_Masia.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/bg-texture-blue-003-1.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/bg-texture-blue-003-1.webp]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[//faq/trust-and-transparency/]]></loc>
+		<loc><![CDATA[https://zymvol.com/faq/trust-and-transparency/]]></loc>
 		<lastmod><![CDATA[2025-10-15T10:58:18+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/shape-enzyme-001.svg]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/shape-enzyme-001.svg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[//faq/customization-and-expected-results/]]></loc>
+		<loc><![CDATA[https://zymvol.com/faq/customization-and-expected-results/]]></loc>
 		<lastmod><![CDATA[2025-10-15T10:55:09+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/shape-enzyme-001.svg]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/shape-enzyme-001.svg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[//politica-sig/]]></loc>
+		<loc><![CDATA[https://zymvol.com/politica-sig/]]></loc>
 		<lastmod><![CDATA[2025-10-15T10:52:39+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[//ims-policy/]]></loc>
+		<loc><![CDATA[https://zymvol.com/ims-policy/]]></loc>
 		<lastmod><![CDATA[2025-10-15T10:51:55+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[//cookies-policy-spanish/]]></loc>
+		<loc><![CDATA[https://zymvol.com/cookies-policy-spanish/]]></loc>
 		<lastmod><![CDATA[2025-10-15T10:50:41+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[//cookies-policy-english/]]></loc>
+		<loc><![CDATA[https://zymvol.com/cookies-policy-english/]]></loc>
 		<lastmod><![CDATA[2025-10-15T10:49:46+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[//privacy-policy/]]></loc>
+		<loc><![CDATA[https://zymvol.com/privacy-policy/]]></loc>
 		<lastmod><![CDATA[2025-10-15T10:45:59+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[//politica-de-privacidad/]]></loc>
+		<loc><![CDATA[https://zymvol.com/politica-de-privacidad/]]></loc>
 		<lastmod><![CDATA[2025-10-15T10:44:35+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[//legal-notice/]]></loc>
+		<loc><![CDATA[https://zymvol.com/legal-notice/]]></loc>
 		<lastmod><![CDATA[2025-10-15T10:42:23+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/shape-enzyme-001-2.svg]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/shape-enzyme-001-2.svg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[//legal-notice-spanish/]]></loc>
+		<loc><![CDATA[https://zymvol.com/legal-notice-spanish/]]></loc>
 		<lastmod><![CDATA[2025-10-15T10:41:51+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/shape-enzyme-001-2.svg]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/shape-enzyme-001-2.svg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[//public-projects/]]></loc>
+		<loc><![CDATA[https://zymvol.com/public-projects/]]></loc>
 		<lastmod><![CDATA[2025-10-15T10:38:45+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/shape-enzyme-001-1.svg]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/shape-enzyme-001-1.svg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/09/Biomatchmaker_Zymvol_.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/09/Biomatchmaker_Zymvol_.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/09/Zymevolver_Zymvol_.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/09/Zymevolver_Zymvol_.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/bg-texture-blue-002-1.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/bg-texture-blue-002-1.webp]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[//faq/]]></loc>
+		<loc><![CDATA[https://zymvol.com/faq/]]></loc>
 		<lastmod><![CDATA[2025-10-15T10:37:01+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/shape-enzyme-001.svg]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/shape-enzyme-001.svg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[//careers/]]></loc>
+		<loc><![CDATA[https://zymvol.com/careers/]]></loc>
 		<lastmod><![CDATA[2025-10-15T10:31:15+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/10/Careers_Image-@2x.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/10/Careers_Image-@2x.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/ico-01-1.svg]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/ico-01-1.svg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/bg-section-01.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/bg-section-01.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/bg-section-01-m.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/bg-section-01-m.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/shape-enzyme-003.svg]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/shape-enzyme-003.svg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/shape-enzyme-004.svg]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/shape-enzyme-004.svg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/ico-pdf-dark-blue-001.svg]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/ico-pdf-dark-blue-001.svg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/shape-enzyme-002-1.svg]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/shape-enzyme-002-1.svg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/logo-university-card-001.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/logo-university-card-001.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/logo-university-card-002.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/logo-university-card-002.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/09/UPC_Universities.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/09/UPC_Universities.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/09/UAM_Universities.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/09/UAM_Universities.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/09/UAB_Universities_.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/09/UAB_Universities_.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/09/IQS_Universities.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/09/IQS_Universities.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/09/IFP_Universities_.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/09/IFP_Universities_.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/shape-enzyme-005.svg]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/shape-enzyme-005.svg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[//solutions/]]></loc>
+		<loc><![CDATA[https://zymvol.com/solutions/]]></loc>
 		<lastmod><![CDATA[2025-10-15T10:25:25+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/img-01.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/img-01.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/img-01-m.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/img-01-m.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/img-modal-image-card-001-1.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/img-modal-image-card-001-1.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/ico-free-to-use-white-001-1.svg]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/ico-free-to-use-white-001-1.svg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/ico-results-in-seconds-white-001-1.svg]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/ico-results-in-seconds-white-001-1.svg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/ico-available-online-white-001-1.svg]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/ico-available-online-white-001-1.svg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/img-modal-image-card-001-2.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/img-modal-image-card-001-2.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/ico-invest-white-001.svg]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/ico-invest-white-001.svg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/ico-prioritize-projects-white-001-1.svg]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/ico-prioritize-projects-white-001-1.svg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/ico-warning-white-001.svg]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/ico-warning-white-001.svg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/img-modal-image-card-001-3.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/img-modal-image-card-001-3.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/ico-lab-screening-white-001.svg]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/ico-lab-screening-white-001.svg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/ico-explore-white-001.svg]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/ico-explore-white-001.svg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/ico-enzymes-white-001.svg]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/ico-enzymes-white-001.svg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/img-modal-image-card-001-4.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/img-modal-image-card-001-4.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/ico-quickly-test-white-001.svg]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/ico-quickly-test-white-001.svg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/ico-save-time-white-001.svg]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/ico-save-time-white-001.svg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/img-modal-image-card-001-5.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/img-modal-image-card-001-5.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/ico-predict-success-white-001.svg]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/ico-predict-success-white-001.svg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/ico-boost-performance-white-001.svg]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/ico-boost-performance-white-001.svg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/ico-one-month-white-001.svg]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/ico-one-month-white-001.svg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/bg-main.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/bg-main.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/10/Zymbrain_Image.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/10/Zymbrain_Image.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/shape-enzyme-01.svg]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/shape-enzyme-01.svg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/bg-main-1.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/bg-main-1.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/10/Need-a-lab-to-test.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/10/Need-a-lab-to-test.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/ico-01.svg]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/ico-01.svg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/bg-section-01.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/bg-section-01.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/bg-section-01-m.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/bg-section-01-m.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/shape-enzyme-01-1.svg]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/shape-enzyme-01-1.svg]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/10/bg-section-05.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/10/bg-section-05.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/bg-section-02-m.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/bg-section-02-m.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/10/Success-Stories.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/10/Success-Stories.webp]]>			</image:loc>
 		</image:image>
 	</url>
 </urlset>

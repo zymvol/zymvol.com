@@ -1,180 +1,180 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- This sitemap was dynamically generated on October 20, 2025 at 4:34 am by All in One SEO v4.8.7 - the original SEO plugin for WordPress. -->
+<!-- This sitemap was dynamically generated on October 20, 2025 at 9:44 am by All in One SEO v4.8.7 - the original SEO plugin for WordPress. -->
 
-<?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://zymvol.com/main-sitemap.xsl"?>
 <urlset
 	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
 	xmlns:xhtml="http://www.w3.org/1999/xhtml"
 	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
 >
 	<url>
-		<loc><![CDATA[//public-projects/#oxymel]]></loc>
+		<loc><![CDATA[https://zymvol.com/public-projects/#oxymel]]></loc>
 		<lastmod><![CDATA[2025-10-15T15:19:57+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/img-project-section-001.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/img-project-section-001.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/Eureka_CDTI_Funding_01-1.png]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/Eureka_CDTI_Funding_01-1.png]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[//public-projects/#heer]]></loc>
+		<loc><![CDATA[https://zymvol.com/public-projects/#heer]]></loc>
 		<lastmod><![CDATA[2025-10-13T11:53:25+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/img-project-section-001.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/img-project-section-001.webp]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[//public-projects/#petases]]></loc>
+		<loc><![CDATA[https://zymvol.com/public-projects/#petases]]></loc>
 		<lastmod><![CDATA[2025-10-13T11:46:40+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/img-project-section-001.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/img-project-section-001.webp]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[//public-projects/#bligzymes]]></loc>
+		<loc><![CDATA[https://zymvol.com/public-projects/#bligzymes]]></loc>
 		<lastmod><![CDATA[2025-10-13T11:43:07+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/img-project-section-001.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/img-project-section-001.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/10/BLIGZYMES_LOGOS-1.png]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/10/BLIGZYMES_LOGOS-1.png]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[//public-projects/#unlockedd]]></loc>
+		<loc><![CDATA[https://zymvol.com/public-projects/#unlockedd]]></loc>
 		<lastmod><![CDATA[2025-10-13T09:17:56+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/img-project-section-001.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/img-project-section-001.webp]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[//public-projects/#bioinspiresensing]]></loc>
+		<loc><![CDATA[https://zymvol.com/public-projects/#bioinspiresensing]]></loc>
 		<lastmod><![CDATA[2025-10-13T09:17:49+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/img-project-section-001.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/img-project-section-001.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/logos-project-section-001.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/logos-project-section-001.webp]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[//public-projects/#ideaps]]></loc>
+		<loc><![CDATA[https://zymvol.com/public-projects/#ideaps]]></loc>
 		<lastmod><![CDATA[2025-10-13T09:17:41+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/img-project-section-001.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/img-project-section-001.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/TECNIOSPRING_LOGOS-e1688037100646-1.png]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/TECNIOSPRING_LOGOS-e1688037100646-1.png]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[//public-projects/#enzimmop]]></loc>
+		<loc><![CDATA[https://zymvol.com/public-projects/#enzimmop]]></loc>
 		<lastmod><![CDATA[2025-10-13T09:17:33+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/img-project-section-001.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/img-project-section-001.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/TECNIOSPRING_LOGOS-e1688037100646-1.png]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/TECNIOSPRING_LOGOS-e1688037100646-1.png]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[//public-projects/#brainzyme]]></loc>
+		<loc><![CDATA[https://zymvol.com/public-projects/#brainzyme]]></loc>
 		<lastmod><![CDATA[2025-10-13T09:17:24+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/img-project-section-001.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/img-project-section-001.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/REDES_LOGOS-1.png]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/REDES_LOGOS-1.png]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[//public-projects/#smartbox]]></loc>
+		<loc><![CDATA[https://zymvol.com/public-projects/#smartbox]]></loc>
 		<lastmod><![CDATA[2025-10-13T09:13:24+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/img-project-section-001.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/img-project-section-001.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/logos-project-section-001.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/logos-project-section-001.webp]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[//public-projects/#mcgea]]></loc>
+		<loc><![CDATA[https://zymvol.com/public-projects/#mcgea]]></loc>
 		<lastmod><![CDATA[2025-09-12T15:01:49+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/img-project-section-001.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/img-project-section-001.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/mcgea.png]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/mcgea.png]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[//public-projects/#comenze]]></loc>
+		<loc><![CDATA[https://zymvol.com/public-projects/#comenze]]></loc>
 		<lastmod><![CDATA[2025-09-12T15:01:43+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/img-project-section-001.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/img-project-section-001.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/Comenze.png]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/Comenze.png]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[//public-projects/#torres-quevedo]]></loc>
+		<loc><![CDATA[https://zymvol.com/public-projects/#torres-quevedo]]></loc>
 		<lastmod><![CDATA[2025-09-12T15:01:26+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/img-project-section-001.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/img-project-section-001.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[//zymvol/wp-content/uploads/2025/08/TorresQuevedo.png]]>			</image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/TorresQuevedo.png]]>			</image:loc>
 		</image:image>
 	</url>
 </urlset>
