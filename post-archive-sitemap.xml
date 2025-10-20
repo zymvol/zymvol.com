@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- This sitemap was dynamically generated on October 17, 2025 at 3:27 pm by All in One SEO v4.8.7 - the original SEO plugin for WordPress. -->
+<!-- This sitemap was dynamically generated on October 20, 2025 at 8:25 pm by All in One SEO v4.8.7 - the original SEO plugin for WordPress. -->
 
-<?xml-stylesheet type="text/xsl" href="/zymvol.com/main-sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://zymvol.com/main-sitemap.xsl"?>
 <urlset
 	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
 	xmlns:xhtml="http://www.w3.org/1999/xhtml"
 	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
 >
 	<url>
-		<loc><![CDATA[/zymvol.com/stories/]]></loc>
-		<lastmod><![CDATA[2025-10-07T15:56:42+00:00]]></lastmod>
+		<loc><![CDATA[https://zymvol.com/stories/]]></loc>
+		<lastmod><![CDATA[2025-10-15T11:21:45+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.5]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/zymvol.com/scientific/]]></loc>
-		<lastmod><![CDATA[2025-09-12T14:15:44+00:00]]></lastmod>
+		<loc><![CDATA[https://zymvol.com/scientific/]]></loc>
+		<lastmod><![CDATA[2025-10-17T16:04:22+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.5]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/zymvol.com/knowledge-hub/]]></loc>
-		<lastmod><![CDATA[2025-10-10T11:04:43+00:00]]></lastmod>
+		<loc><![CDATA[https://zymvol.com/knowledge-hub/]]></loc>
+		<lastmod><![CDATA[2025-10-15T11:45:57+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.5]]></priority>
 	</url>
