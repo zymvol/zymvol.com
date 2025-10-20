@@ -18,6 +18,7 @@ document.addEventListener('DOMContentLoaded', () => {
 	initReadMore();
 	initKnowledgeGallery();
 	initInfoSection();
+	initParallax();
 
 	// dev2
 	setPropertyHeaderHeight();
@@ -43,6 +44,7 @@ document.addEventListener('DOMContentLoaded', () => {
 	initBodyBg();
 
 	// dev3
+	initPlyr();
 	// dev4
 });
 
@@ -231,6 +233,83 @@ function initKnowledgeGallery() {
 					spaceBetween: 30,
 				}
 			}
+		});
+	});
+}
+
+function initParallax() {
+	let mm = gsap.matchMedia();
+	document.querySelectorAll('.image-holder').forEach(element => {
+		const image = element.querySelector('.img-mask img');
+		const icon = element.querySelector('.icon');
+
+		if (image) {
+			image.removeAttribute('loading');
+		}
+
+		mm.add("(min-width: "+responsive.desktop+"px)", () => {
+			gsap.fromTo(image, {
+				y: 0
+			}, {
+				y: 100,
+				ease: "none",
+				scrollTrigger: {
+					trigger: element,
+					start: "top bottom", 
+					end: "bottom top",
+					scrub: true,
+				}
+			});
+			gsap.fromTo(icon, {
+				y: 0
+			}, {
+				y: -300,
+				ease: "none",
+				scrollTrigger: {
+					trigger: element,
+					start: "top bottom", 
+					end: "bottom top",
+					scrub: true,
+				}
+			});
+		});
+	});
+
+	document.querySelectorAll('.person-cards-section .image-shape').forEach(element => {
+		const image = element.querySelector('.image-shape-holder');
+
+		mm.add("(min-width: "+responsive.desktop+"px)", () => {
+			gsap.fromTo(image, {
+				y: 0
+			}, {
+				y: -200,
+				ease: "none",
+				scrollTrigger: {
+					trigger: element,
+					start: "top bottom", 
+					end: "bottom top",
+					scrub: true,
+				}
+			});
+		});
+	});
+
+	document.querySelectorAll('.cta-section').forEach(section => {
+		const image = section.querySelector('.bg');
+		
+		mm.add("(min-width: "+responsive.desktop+"px)", () => {
+			gsap.fromTo(image, {
+				y: 0
+			}, {
+				y: 300,
+				ease: "none",
+				scrollTrigger: {
+					trigger: section,
+					start: "top bottom", 
+					end: "bottom top",
+					scrub: true,
+				}
+			});
 		});
 	});
 }
@@ -765,32 +844,55 @@ function initExtraCardsSection() {
 }
 
 function initStoriesCardsCarousel() {
-	const STORIES_CARDS_CAROUSEL_NL = document.querySelectorAll('.stories-cards-carousel');
+	const storiesCardsSections = document.querySelectorAll('.stories-cards-section');
 
-	Array.from(STORIES_CARDS_CAROUSEL_NL).forEach(STORIES_CARDS_CAROUSEL_EL => {
-		const STORIES_CARDS_CAROUSEL_SL = STORIES_CARDS_CAROUSEL_EL.querySelector('.swiper-container');
-		const STORIES_CARDS_CAROUSEL_OPT = {
-			init: false,
-			loop: false,
-			freeMode: false,
-			slidesPerView: 1,
-			simulateTouch: true,
-			mousewheel: {
-				releaseOnEdges: true,
-				sensitivity: 5,
-			},
-		}
-		let STORIES_CARDS_CAROUSEL_SW = undefined;
+	if (storiesCardsSections.length) {
+		const mm = gsap.matchMedia();
+		
+		gsap.registerPlugin(ScrollTrigger);
+		
+		storiesCardsSections.forEach(parentEL => {
+			const STORIES_CARDS_CAROUSEL_SL = parentEL.querySelector('.stories-cards-carousel .swiper-container');
 
-		function initCarouselSwiper() {
-			if(STORIES_CARDS_CAROUSEL_SW === undefined) {
-				STORIES_CARDS_CAROUSEL_SW = new Swiper(STORIES_CARDS_CAROUSEL_SL, STORIES_CARDS_CAROUSEL_OPT);
-				STORIES_CARDS_CAROUSEL_SW.init();
+			if (STORIES_CARDS_CAROUSEL_SL) {
+				const STORIES_CARDS_CAROUSEL_OPT = {
+					init: false,
+					slidesPerView: 1,
+					allowTouchMove: true,
+					breakpoints: {
+						992: {
+							allowTouchMove: false,
+						}
+					},
+				}
+				let STORIES_CARDS_CAROUSEL_SW = undefined;
+		
+				function initCarouselSwiper() {
+					if(STORIES_CARDS_CAROUSEL_SW === undefined) {
+						STORIES_CARDS_CAROUSEL_SW = new Swiper(STORIES_CARDS_CAROUSEL_SL, STORIES_CARDS_CAROUSEL_OPT);
+						STORIES_CARDS_CAROUSEL_SW.init();
+
+						mm.add("(min-width: "+responsive.desktop+"px)", () => {
+							ScrollTrigger.create({
+								trigger: parentEL,
+								start: 'top top',
+								end: 'bottom bottom',
+								// markers: true,
+								onUpdate: (self) => {
+									STORIES_CARDS_CAROUSEL_SW.setProgress(self.progress.toFixed(3), 0);
+								}
+							});
+						});
+					}
+				}
+		
+				initCarouselSwiper();
 			}
-		}
-
-		initCarouselSwiper();
-	});
+			
+			parentEL.querySelectorAll('.stories-cards-carousel .swiper-container').forEach(STORIES_CARDS_CAROUSEL_SL => {
+			});
+		});
+	}
 }
 
 function initInformCardsSection() {
@@ -1066,6 +1168,12 @@ function initBodyBg() {
 }
 
 // dev3
+function initPlyr() {
+	document.querySelectorAll('.plyr__video-embed').forEach(playerEL => {
+		const player = new Plyr(playerEL);
+		playerEL.plyrApi = player;
+	});
+}
 // dev4
 
 // jQuery
