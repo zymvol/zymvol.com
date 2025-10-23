@@ -84,7 +84,7 @@ var _ckyStyles = {"css":".cky-overlay{background: #000000; opacity: 0.4; positio
 <script type="text/javascript" src="https://zymvol.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
 <script type="text/javascript" id="scripts-js-extra">
 /* <![CDATA[ */
-var wp_helper = {"home_url":"https:\/\/zymvol.com","home_path":"https:\/\/zymvol.com\/wp-content\/themes\/zymvol","ajax_url":"https:\/\/zymvol.com\/wp-admin\/admin-ajax.php","nonce":"f49bff9ab5"};
+var wp_helper = {"home_url":"https:\/\/zymvol.com","home_path":"https:\/\/zymvol.com\/wp-content\/themes\/zymvol","ajax_url":"https:\/\/zymvol.com\/wp-admin\/admin-ajax.php","nonce":"f9688bd98d"};
 /* ]]> */
 </script>
 <script type="text/javascript" src="https://zymvol.com/wp-content/themes/zymvol/js/scripts.js?ver=6.8.3" id="scripts-js"></script>
@@ -107,7 +107,20 @@ var wp_helper = {"home_url":"https:\/\/zymvol.com","home_path":"https:\/\/zymvol
 .modal .modal-content {
 	background-color:#F3ECE5;
 }
-		</style>
+.ico-items-list > li .ico-items-list-item .ico-items-list-item-icon&nbsp;{
+  width: 4rem;
+}
+.ico-items-list > li .ico-items-list-item .ico-items-list-item-icon img {
+    max-width: 2.4rem;
+    max-height: 2.4rem;
+}
+
+.image-holder .icon {
+	width: 52%;
+}
+.modal .modal-content .rate-card {
+	display: none;
+}		</style>
 		</head>
 <body class="archive paged post-type-archive post-type-archive-scientific paged-3 post-type-paged-3 wp-theme-zymvol">
 
@@ -164,7 +177,7 @@ var wp_helper = {"home_url":"https:\/\/zymvol.com","home_path":"https:\/\/zymvol
 									<a href="#" class="btn btn-sm btn-primary btn-with-arrow" data-bs-toggle="modal" data-bs-target="#contact-modal">Contact our team</a>
 								</div>
 																						<div class="main-menu-footer-link-row">
-									<a href="#" class="main-menu-footer-link" target="_self">Join our list</a>
+									<a href="#" class="main-menu-footer-link" data-bs-toggle="modal" data-bs-target="#sign-up-modal">Join our list</a>
 								</div>
 													</div>
 						<div class="col-lg-5 d-lg-flex align-items-lg-center justify-content-lg-end">
@@ -214,7 +227,10 @@ var wp_helper = {"home_url":"https:\/\/zymvol.com","home_path":"https:\/\/zymvol
 					<div class="row row-gutter-x-2xl-down-20 row-gutter-y">            
                                                     <div class="col-md-6 col-lg-4">
                                 <div class="publication-card">
-                    <h3>
+                        <div class="publication-card-ico">
+                <img src="https://zymvol.com/wp-content/uploads/2025/09/ico-publication-01.svg" class="lazyload" loading="lazy" alt="Asymmetric sulfoxidation by engineering the heme pocket of a dye-decolorizing peroxidase">
+            </div>
+                <h3>
                 <a href="https://pubs.rsc.org/en/content/articlelanding/2016/cy/c6cy00539j" target="_blank">
                     Asymmetric sulfoxidation by engineering the heme pocket of a dye-decolorizing peroxidase        </a>
     </h3>
@@ -225,7 +241,10 @@ var wp_helper = {"home_url":"https:\/\/zymvol.com","home_path":"https:\/\/zymvol
 </div>                            </div>            
                                                     <div class="col-md-6 col-lg-4">
                                 <div class="publication-card">
-                    <h3>
+                        <div class="publication-card-ico">
+                <img src="https://zymvol.com/wp-content/uploads/2025/09/ico-publication-01.svg" class="lazyload" loading="lazy" alt="Computer-Aided Laccase Engineering: Toward Biological Oxidation of Arylamines">
+            </div>
+                <h3>
                 <a href="https://pubs.acs.org/doi/abs/10.1021/acscatal.6b01460" target="_blank">
                     Computer-Aided Laccase Engineering: Toward Biological Oxidation of Arylamines        </a>
     </h3>
@@ -236,7 +255,10 @@ var wp_helper = {"home_url":"https:\/\/zymvol.com","home_path":"https:\/\/zymvol
 </div>                            </div>            
                                                     <div class="col-md-6 col-lg-4">
                                 <div class="publication-card">
-                    <h3>
+                        <div class="publication-card-ico">
+                <img src="https://zymvol.com/wp-content/uploads/2025/09/ico-publication-01.svg" class="lazyload" loading="lazy" alt="Rational Enzyme Engineering Through Biophysical and Biochemical Modeling">
+            </div>
+                <h3>
                 <a href="https://pubs.acs.org/doi/abs/10.1021/acscatal.6b00028" target="_blank">
                     Rational Enzyme Engineering Through Biophysical and Biochemical Modeling        </a>
     </h3>
@@ -247,7 +269,10 @@ var wp_helper = {"home_url":"https:\/\/zymvol.com","home_path":"https:\/\/zymvol
 </div>                            </div>            
                                                     <div class="col-md-6 col-lg-4">
                                 <div class="publication-card">
-                    <h3>
+                        <div class="publication-card-ico">
+                <img src="https://zymvol.com/wp-content/uploads/2025/09/ico-publication-01.svg" class="lazyload" loading="lazy" alt="Synthesis of 1-Naphthol by a Natural Peroxygenase engineered by Directed Evolution">
+            </div>
+                <h3>
                 <a href="https://pubmed.ncbi.nlm.nih.gov/26677801/" target="_blank">
                     Synthesis of 1-Naphthol by a Natural Peroxygenase engineered by Directed Evolution        </a>
     </h3>
@@ -258,7 +283,10 @@ var wp_helper = {"home_url":"https:\/\/zymvol.com","home_path":"https:\/\/zymvol
 </div>                            </div>            
                                                     <div class="col-md-6 col-lg-4">
                                 <div class="publication-card">
-                    <h3>
+                        <div class="publication-card-ico">
+                <img src="https://zymvol.com/wp-content/uploads/2025/09/ico-publication-01.svg" class="lazyload" loading="lazy" alt="Molecular determinants for selective C25-hydroxylation of vitamins D2 and D3 by fungal peroxygenases">
+            </div>
+                <h3>
                 <a href="https://pubs.rsc.org/en/content/articlelanding/2016/cy/c5cy00427f" target="_blank">
                     Molecular determinants for selective C25-hydroxylation of vitamins D2 and D3 by fungal peroxygenases        </a>
     </h3>
@@ -269,7 +297,10 @@ var wp_helper = {"home_url":"https:\/\/zymvol.com","home_path":"https:\/\/zymvol
 </div>                            </div>            
                                                     <div class="col-md-6 col-lg-4">
                                 <div class="publication-card">
-                    <h3>
+                        <div class="publication-card-ico">
+                <img src="https://zymvol.com/wp-content/uploads/2025/09/ico-publication-01.svg" class="lazyload" loading="lazy" alt="Insights into Laccase Engineering from Molecular Simulations: Toward a Binding-Focused Strategy">
+            </div>
+                <h3>
                 <a href="https://pubs.acs.org/doi/10.1021/acs.jpclett.5b00225?cookieSet=1" target="_blank">
                     Insights into Laccase Engineering from Molecular Simulations: Toward a Binding-Focused Strategy        </a>
     </h3>
@@ -280,7 +311,10 @@ var wp_helper = {"home_url":"https:\/\/zymvol.com","home_path":"https:\/\/zymvol
 </div>                            </div>            
                                                     <div class="col-md-6 col-lg-4">
                                 <div class="publication-card">
-                    <h3>
+                        <div class="publication-card-ico">
+                <img src="https://zymvol.com/wp-content/uploads/2025/09/ico-publication-01.svg" class="lazyload" loading="lazy" alt="Steroid hydroxylation by basidiomycete peroxygenases: A combined experimental and computational study">
+            </div>
+                <h3>
                 <a href="https://aem.asm.org/content/81/12/4130" target="_blank">
                     Steroid hydroxylation by basidiomycete peroxygenases: A combined experimental and computational study        </a>
     </h3>
@@ -291,7 +325,10 @@ var wp_helper = {"home_url":"https:\/\/zymvol.com","home_path":"https:\/\/zymvol
 </div>                            </div>            
                                                     <div class="col-md-6 col-lg-4">
                                 <div class="publication-card">
-                    <h3>
+                        <div class="publication-card-ico">
+                <img src="https://zymvol.com/wp-content/uploads/2025/09/ico-publication-01.svg" class="lazyload" loading="lazy" alt="Atomic Picture of Ligand Migration in Toluene 4-Monooxygenase">
+            </div>
+                <h3>
                 <a href="https://pubs.acs.org/doi/abs/10.1021/jp502509a?cookieSet=1" target="_blank">
                     Atomic Picture of Ligand Migration in Toluene 4-Monooxygenase        </a>
     </h3>
@@ -530,7 +567,7 @@ var wp_helper = {"home_url":"https:\/\/zymvol.com","home_path":"https:\/\/zymvol
                                                                     
 <div class="wpcf7 no-js" id="wpcf7-f6-o1" lang="en-US" dir="ltr" data-wpcf7-id="6">
 <div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
-<form action="/scientific/page/3/?simply_static_page=17682#wpcf7-f6-o1" method="post" class="wpcf7-form init" aria-label="Contact form" novalidate="novalidate" data-status="init">
+<form action="/scientific/page/3/?simply_static_page=19525#wpcf7-f6-o1" method="post" class="wpcf7-form init wpcf7-acceptance-as-validation" aria-label="Contact form" novalidate="novalidate" data-status="init">
 <fieldset class="hidden-fields-container"><input type="hidden" name="_wpcf7" value="6"><input type="hidden" name="_wpcf7_version" value="6.1.1"><input type="hidden" name="_wpcf7_locale" value="en_US"><input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f6-o1"><input type="hidden" name="_wpcf7_container_post" value="0"><input type="hidden" name="_wpcf7_posted_data_hash" value="">
 </fieldset>
 <div class="regular-form-body">
@@ -569,8 +606,7 @@ ADDITIONAL INFORMATION: Additional detailed information about our Data Protectio
 <div class="regular-form-group">
 <ul class="check-group">
 <li>
-<span class="wpcf7-form-control-wrap" data-name="your-consent"><span class="wpcf7-form-control wpcf7-acceptance"><span class="wpcf7-list-item"><label><input type="checkbox" name="your-consent" value="1" aria-invalid="false"><span class="wpcf7-list-item-label">I have read and accept the <a href="https://zymvol.com/privacy-policy/" target="_blank">Privacy Policy</a>, acknowledging that I am aware of and informed of everything
-stated therein, and I expressly consent to the processing of my personal data for the purposes
+<span class="wpcf7-form-control-wrap" data-name="your-consent"><span class="wpcf7-form-control wpcf7-acceptance"><span class="wpcf7-list-item"><label><input type="checkbox" name="your-consent" value="1" aria-invalid="false"><span class="wpcf7-list-item-label">I have read and accept the <a href="https://zymvol.com/privacy-policy/" target="_blank">Privacy Policy</a>, acknowledging that I am aware of and informed of everything stated therein, and I expressly consent to the processing of my personal data for the purposes
 described.</span></label></span></span></span>
 </li>
 <li>
@@ -580,8 +616,8 @@ described.</span></label></span></span></span>
 </div>
 <div class="regular-form-group">
 <span class="btn btn-sm btn-primary btn-with-arrow">
-<span>Send</span>
-<input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="Send">
+
+<span>Send</span> <input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="Send">
 </span>
 </div>
 </div><div class="wpcf7-response-output" aria-hidden="true"></div>
@@ -621,7 +657,7 @@ described.</span></label></span></span></span>
                                                                     
 <div class="wpcf7 no-js" id="wpcf7-f510-o2" lang="en-US" dir="ltr" data-wpcf7-id="510">
 <div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
-<form action="/scientific/page/3/?simply_static_page=17682#wpcf7-f510-o2" method="post" class="wpcf7-form init" aria-label="Contact form" novalidate="novalidate" data-status="init">
+<form action="/scientific/page/3/?simply_static_page=19525#wpcf7-f510-o2" method="post" class="wpcf7-form init" aria-label="Contact form" novalidate="novalidate" data-status="init">
 <fieldset class="hidden-fields-container"><input type="hidden" name="_wpcf7" value="510"><input type="hidden" name="_wpcf7_version" value="6.1.1"><input type="hidden" name="_wpcf7_locale" value="en_US"><input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f510-o2"><input type="hidden" name="_wpcf7_container_post" value="0"><input type="hidden" name="_wpcf7_posted_data_hash" value="">
 </fieldset>
 <div class="regular-form-body">
@@ -657,7 +693,7 @@ ADDITIONAL INFORMATION: Additional detailed information about our Data Protectio
 <span class="wpcf7-form-control-wrap" data-name="your-consent"><span class="wpcf7-form-control wpcf7-acceptance"><span class="wpcf7-list-item"><label><input type="checkbox" name="your-consent" value="1" aria-invalid="false"><span class="wpcf7-list-item-label">I have read and accept the <a href="https://zymvol.com/privacy-policy/" target="_blank">Privacy Policy</a>, acknowledging that I am aware of and informed of everything stated therein, and I expressly consent to the processing of my personal data for the purposes described.</span></label></span></span></span>
 </li>
 <li>
-<span class="wpcf7-form-control-wrap" data-name="your-consent-comercial"><span class="wpcf7-form-control wpcf7-acceptance"><span class="wpcf7-list-item"><label><input type="checkbox" name="your-consent-comercial" value="1" aria-invalid="false"><span class="wpcf7-list-item-label">I expressly consent to receiving commercial and informative communications sent by ZYMVOL.</span></label></span></span></span>
+<span class="wpcf7-form-control-wrap" data-name="your-consent-comercial"><span class="wpcf7-form-control wpcf7-acceptance optional"><span class="wpcf7-list-item"><label><input type="checkbox" name="your-consent-comercial" value="1" aria-invalid="false"><span class="wpcf7-list-item-label">I expressly consent to receiving commercial and informative communications sent by ZYMVOL.</span></label></span></span></span>
 </li>
 </ul>
 </div>
