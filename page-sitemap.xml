@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- This sitemap was dynamically generated on October 23, 2025 at 9:51 am by All in One SEO v4.8.7 - the original SEO plugin for WordPress. -->
+<!-- This sitemap was dynamically generated on October 24, 2025 at 5:12 pm by All in One SEO v4.8.7 - the original SEO plugin for WordPress. -->
 
 <?xml-stylesheet type="text/xsl" href="https://zymvol.com/main-sitemap.xsl"?>
 <urlset
@@ -186,7 +186,11 @@
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
-				<![CDATA[https://zymvol.com/wp-content/uploads/2025/10/About_Image.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/wp-content/uploads/2025/08/img-visual-intro-001.webp]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://zymvol.com/wp-content/uploads/2025/08/img-visual-intro-002.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
@@ -323,18 +327,6 @@
 		<image:image>
 			<image:loc>
 				<![CDATA[https://zymvol.com/wp-content/uploads/2025/10/Klaus_Sommer.webp]]>			</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>
-				<![CDATA[https://zymvol.com/wp-content/uploads/2025/10/Audrey_Diano.webp]]>			</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>
-				<![CDATA[https://zymvol.com/wp-content/uploads/2025/10/Vesna_Mitchell.webp]]>			</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>
-				<![CDATA[https://zymvol.com/wp-content/uploads/2025/10/Gerald_Hiller.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
