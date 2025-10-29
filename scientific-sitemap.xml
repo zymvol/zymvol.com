@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- This sitemap was dynamically generated on October 25, 2025 at 6:20 pm by All in One SEO v4.8.7 - the original SEO plugin for WordPress. -->
+<!-- This sitemap was dynamically generated on October 29, 2025 at 2:57 pm by All in One SEO v4.8.7 - the original SEO plugin for WordPress. -->
 
 <?xml-stylesheet type="text/xsl" href="https://zymvol.com/main-sitemap.xsl"?>
 <urlset
@@ -7,6 +7,16 @@
 	xmlns:xhtml="http://www.w3.org/1999/xhtml"
 	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
 >
+	<url>
+		<loc><![CDATA[https://zymvol.com/scientific/computational-enzyme-design-at-zymvol/]]></loc>
+		<lastmod><![CDATA[2025-10-29T14:53:15+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/ico-book-dark-blue-001.svg]]>			</image:loc>
+		</image:image>
+	</url>
 	<url>
 		<loc><![CDATA[https://zymvol.com/scientific/analysis-of-polyethylene-terephthalate-degradation-kinetics-of-evolved-ispetase-variants-using-a-surface-crowding-model/]]></loc>
 		<lastmod><![CDATA[2025-10-17T16:04:22+00:00]]></lastmod>
@@ -100,16 +110,6 @@
 	<url>
 		<loc><![CDATA[https://zymvol.com/scientific/distal-mutations-shape-substrate-binding-sites-during-evolution-of-a-metallo-oxidase-into-a-laccase/]]></loc>
 		<lastmod><![CDATA[2025-09-12T14:08:29+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc>
-				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/ico-book-dark-blue-001.svg]]>			</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc><![CDATA[https://zymvol.com/scientific/computational-enzyme-design-at-zymvol/]]></loc>
-		<lastmod><![CDATA[2025-09-12T14:07:22+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>

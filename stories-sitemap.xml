@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- This sitemap was dynamically generated on October 25, 2025 at 6:20 pm by All in One SEO v4.8.7 - the original SEO plugin for WordPress. -->
+<!-- This sitemap was dynamically generated on October 29, 2025 at 2:57 pm by All in One SEO v4.8.7 - the original SEO plugin for WordPress. -->
 
 <?xml-stylesheet type="text/xsl" href="https://zymvol.com/main-sitemap.xsl"?>
 <urlset
@@ -7,6 +7,16 @@
 	xmlns:xhtml="http://www.w3.org/1999/xhtml"
 	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
 >
+	<url>
+		<loc><![CDATA[https://zymvol.com/stories/a-cost-competitive-catalysis-2/]]></loc>
+		<lastmod><![CDATA[2025-10-29T14:33:37+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://zymvol.com/wp-content/uploads/2025/08/thread-close-up-fabric-production-process.jpg]]>			</image:loc>
+		</image:image>
+	</url>
 	<url>
 		<loc><![CDATA[https://zymvol.com/stories/identifying-a-high-performing-kred-for-api-synthesis/]]></loc>
 		<lastmod><![CDATA[2025-10-15T11:21:45+00:00]]></lastmod>
@@ -25,16 +35,6 @@
 		<image:image>
 			<image:loc>
 				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/09/chemical-laboratory.jpg]]>			</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc><![CDATA[https://zymvol.com/stories/a-cost-competitive-catalysis-2/]]></loc>
-		<lastmod><![CDATA[2025-10-15T11:20:21+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc>
-				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/thread-close-up-fabric-production-process.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
