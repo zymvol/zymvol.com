@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- This sitemap was dynamically generated on November 4, 2025 at 7:30 am by All in One SEO v4.8.7 - the original SEO plugin for WordPress. -->
+<!-- This sitemap was dynamically generated on November 4, 2025 at 12:15 pm by All in One SEO v4.8.7 - the original SEO plugin for WordPress. -->
 
 <?xml-stylesheet type="text/xsl" href="https://zymvol.com/main-sitemap.xsl"?>
 <urlset
@@ -110,30 +110,8 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[https://zymvol.com/public-projects/]]></loc>
-		<lastmod><![CDATA[2025-10-29T14:50:31+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc>
-				<![CDATA[https://zymvol.com/wp-content/uploads/2025/08/shape-enzyme-001-1.svg]]>			</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>
-				<![CDATA[https://zymvol.com/wp-content/uploads/2025/09/Biomatchmaker_Zymvol_.webp]]>			</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>
-				<![CDATA[https://zymvol.com/wp-content/uploads/2025/09/Zymevolver_Zymvol_.webp]]>			</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>
-				<![CDATA[https://zymvol.com/wp-content/uploads/2025/08/bg-texture-blue-002-1.webp]]>			</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc><![CDATA[https://zymvol.com/about/]]></loc>
-		<lastmod><![CDATA[2025-10-29T14:35:19+00:00]]></lastmod>
+		<lastmod><![CDATA[2025-11-04T12:14:53+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
@@ -347,6 +325,28 @@
 		<image:image>
 			<image:loc>
 				<![CDATA[https://zymvol.com/wp-content/uploads/2025/08/bg-texture-blue-003-1.webp]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://zymvol.com/public-projects/]]></loc>
+		<lastmod><![CDATA[2025-10-29T14:50:31+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://zymvol.com/wp-content/uploads/2025/08/shape-enzyme-001-1.svg]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://zymvol.com/wp-content/uploads/2025/09/Biomatchmaker_Zymvol_.webp]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://zymvol.com/wp-content/uploads/2025/09/Zymevolver_Zymvol_.webp]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://zymvol.com/wp-content/uploads/2025/08/bg-texture-blue-002-1.webp]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>

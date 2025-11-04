@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- This sitemap was dynamically generated on November 4, 2025 at 7:30 am by All in One SEO v4.8.7 - the original SEO plugin for WordPress. -->
+<!-- This sitemap was dynamically generated on November 4, 2025 at 12:15 pm by All in One SEO v4.8.7 - the original SEO plugin for WordPress. -->
 
 <?xml-stylesheet type="text/xsl" href="https://zymvol.com/main-sitemap.xsl"?>
 <urlset
@@ -7,6 +7,18 @@
 	xmlns:xhtml="http://www.w3.org/1999/xhtml"
 	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
 >
+	<url>
+		<loc><![CDATA[https://zymvol.com/about/about-us_mobile/]]></loc>
+		<lastmod><![CDATA[2025-11-04T12:13:11+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[https://zymvol.com/about/zymvol-about-us/]]></loc>
+		<lastmod><![CDATA[2025-11-04T12:11:00+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+	</url>
 	<url>
 		<loc><![CDATA[https://zymvol.com/careers/joboffer_newbusinessdeveloper_zymvol_2025/]]></loc>
 		<lastmod><![CDATA[2025-10-29T13:50:46+00:00]]></lastmod>
@@ -3622,7 +3634,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[https://zymvol.com/stories/improving-biocatalysis-efficiency/natural-landscape/]]></loc>
+		<loc><![CDATA[https://zymvol.com/stories/simpler-oxygenated-product-synthesis-by-altering-enzyme-specificity/natural-landscape/]]></loc>
 		<lastmod><![CDATA[2025-09-09T15:50:50+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -3692,7 +3704,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[https://zymvol.com/stories/a-cost-competitive-catalysis-2/thread-close-up-fabric-production-process/]]></loc>
+		<loc><![CDATA[https://zymvol.com/stories/from-1-5-billion-sequences-to-high-performing-enzymes-in-2-months/thread-close-up-fabric-production-process/]]></loc>
 		<lastmod><![CDATA[2025-09-09T14:17:19+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -4848,7 +4860,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[https://zymvol.com/stories/a-cost-competitive-catalysis-2/img-08/]]></loc>
+		<loc><![CDATA[https://zymvol.com/stories/from-1-5-billion-sequences-to-high-performing-enzymes-in-2-months/img-08/]]></loc>
 		<lastmod><![CDATA[2025-08-13T14:50:18+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -4858,7 +4870,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[https://zymvol.com/stories/a-cost-competitive-catalysis/img-07/]]></loc>
+		<loc><![CDATA[https://zymvol.com/stories/delivering-a-17x-specificity-boost-in-6-months/img-07/]]></loc>
 		<lastmod><![CDATA[2025-08-13T14:48:48+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -4888,7 +4900,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[https://zymvol.com/stories/improving-biocatalysis-efficiency/img-10/]]></loc>
+		<loc><![CDATA[https://zymvol.com/stories/simpler-oxygenated-product-synthesis-by-altering-enzyme-specificity/img-10/]]></loc>
 		<lastmod><![CDATA[2025-08-13T11:28:46+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -4898,7 +4910,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[https://zymvol.com/stories/improving-biocatalysis-efficiency/img-05/]]></loc>
+		<loc><![CDATA[https://zymvol.com/stories/simpler-oxygenated-product-synthesis-by-altering-enzyme-specificity/img-05/]]></loc>
 		<lastmod><![CDATA[2025-08-13T10:40:38+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
