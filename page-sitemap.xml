@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- This sitemap was dynamically generated on November 4, 2025 at 10:40 pm by All in One SEO v4.8.7 - the original SEO plugin for WordPress. -->
+<!-- This sitemap was dynamically generated on November 13, 2025 at 4:14 pm by All in One SEO v4.8.7 - the original SEO plugin for WordPress. -->
 
 <?xml-stylesheet type="text/xsl" href="https://zymvol.com/main-sitemap.xsl"?>
 <urlset
@@ -111,7 +111,7 @@
 	</url>
 	<url>
 		<loc><![CDATA[https://zymvol.com/about/]]></loc>
-		<lastmod><![CDATA[2025-11-04T12:14:53+00:00]]></lastmod>
+		<lastmod><![CDATA[2025-11-13T16:12:47+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
@@ -152,7 +152,7 @@
 		</image:image>
 		<image:image>
 			<image:loc>
-				<![CDATA[https://zymvol.com/wp-content/uploads/2025/09/Profile_MariaFatimaLucas_.webp]]>			</image:loc>
+				<![CDATA[https://zymvol.com/wp-content/uploads/2025/11/Profile_MariaFatima.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
@@ -224,6 +224,10 @@
 		</image:image>
 		<image:image>
 			<image:loc>
+				<![CDATA[https://zymvol.com/wp-content/uploads/2025/11/Profile_Jeanne.webp]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
 				<![CDATA[https://zymvol.com/wp-content/uploads/2025/09/Profile_MiquelCanellas_.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
@@ -237,6 +241,26 @@
 		<image:image>
 			<image:loc>
 				<![CDATA[https://zymvol.com/wp-content/uploads/2025/09/Profile_LauraTiesler_.webp]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://zymvol.com/wp-content/uploads/2025/11/Profile_Camila.webp]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://zymvol.com/wp-content/uploads/2025/11/Profile_Gilberto.webp]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://zymvol.com/wp-content/uploads/2025/11/Profile_Maria.webp]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://zymvol.com/wp-content/uploads/2025/11/Profile_Natalia.webp]]>			</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://zymvol.com/wp-content/uploads/2025/11/Profile_James.webp]]>			</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>
