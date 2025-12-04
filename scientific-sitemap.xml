@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- This sitemap was dynamically generated on December 3, 2025 at 12:02 pm by All in One SEO v4.8.7 - the original SEO plugin for WordPress. -->
+<!-- This sitemap was dynamically generated on December 4, 2025 at 9:27 am by All in One SEO v4.8.7 - the original SEO plugin for WordPress. -->
 
 <?xml-stylesheet type="text/xsl" href="https://zymvol.com/main-sitemap.xsl"?>
 <urlset
@@ -7,6 +7,56 @@
 	xmlns:xhtml="http://www.w3.org/1999/xhtml"
 	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
 >
+	<url>
+		<loc><![CDATA[https://zymvol.com/scientific/a-computational-pipeline-for-predicting-distal-hotspots-in-an-artificial-enzyme/]]></loc>
+		<lastmod><![CDATA[2025-12-04T09:20:28+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://zymvol.com/wp-content/uploads/2025/09/ico-publication-01.svg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://zymvol.com/scientific/broadening-the-catalytic-scope-of-the-peroxygenase-activity-of-a-bacterial-tyrosine-hydroxylase/]]></loc>
+		<lastmod><![CDATA[2025-12-04T09:17:15+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://zymvol.com/wp-content/uploads/2025/09/ico-publication-01.svg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://zymvol.com/scientific/in-silico-enzyme-screening-identifies-an-sdr-ketoreductase-from-thermus-caliditerrae-as-an-attractive-biocatalyst-and-promising-candidate-for-protein-engineering/]]></loc>
+		<lastmod><![CDATA[2025-12-04T09:13:29+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://zymvol.com/wp-content/uploads/2025/09/ico-publication-01.svg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://zymvol.com/scientific/distal-mutations-enhance-efficiency-of-free-and-immobilized-nov1-dioxygenase-for-vanillin-synthesis/]]></loc>
+		<lastmod><![CDATA[2025-12-04T08:53:25+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://zymvol.com/wp-content/uploads/2025/09/ico-publication-01.svg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://zymvol.com/scientific/computation-guided-engineering-of-distal-mutations-in-an-artificial-enzyme/]]></loc>
+		<lastmod><![CDATA[2025-12-04T08:48:52+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://zymvol.com/wp-content/uploads/2025/09/ico-publication-01.svg]]>			</image:loc>
+		</image:image>
+	</url>
 	<url>
 		<loc><![CDATA[https://zymvol.com/scientific/computational-enzyme-design-at-zymvol/]]></loc>
 		<lastmod><![CDATA[2025-10-29T14:53:15+00:00]]></lastmod>

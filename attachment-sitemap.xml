@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- This sitemap was dynamically generated on December 3, 2025 at 12:02 pm by All in One SEO v4.8.7 - the original SEO plugin for WordPress. -->
+<!-- This sitemap was dynamically generated on December 4, 2025 at 9:27 am by All in One SEO v4.8.7 - the original SEO plugin for WordPress. -->
 
 <?xml-stylesheet type="text/xsl" href="https://zymvol.com/main-sitemap.xsl"?>
 <urlset
@@ -7,6 +7,166 @@
 	xmlns:xhtml="http://www.w3.org/1999/xhtml"
 	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
 >
+	<url>
+		<loc><![CDATA[https://zymvol.com/public-projects/#brainzyme/funded-by-the-european-union-next-generation-eu/]]></loc>
+		<lastmod><![CDATA[2025-12-03T16:42:16+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://zymvol.com/wp-content/uploads/2025/08/Funded-by-the-European-Union-Next-Generation-EU-scaled.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://zymvol.com/public-projects/#brainzyme/ministerio-transformacion-digital/]]></loc>
+		<lastmod><![CDATA[2025-12-03T16:42:11+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://zymvol.com/wp-content/uploads/2025/08/Ministerio-Transformacion-Digital-scaled.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://zymvol.com/public-projects/#brainzyme/redes-y-plan-de-recuperacion/]]></loc>
+		<lastmod><![CDATA[2025-12-03T16:42:07+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://zymvol.com/wp-content/uploads/2025/08/REDES-y-Plan-de-Recuperacion-scaled.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://zymvol.com/public-projects/#bligzymes/bligzymes-2/]]></loc>
+		<lastmod><![CDATA[2025-12-03T16:30:22+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://zymvol.com/wp-content/uploads/2025/10/BLIGZYMES-scaled.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://zymvol.com/public-projects/#smartbox/bbiju_bic/]]></loc>
+		<lastmod><![CDATA[2025-12-03T16:26:48+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://zymvol.com/wp-content/uploads/2025/08/BBIJU_BIC-scaled.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://zymvol.com/public-projects/#bioinspiresensing/bioinspiresensing-2/]]></loc>
+		<lastmod><![CDATA[2025-12-03T16:13:30+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://zymvol.com/wp-content/uploads/2025/08/BioInspireSensing-scaled.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://zymvol.com/public-projects/#oxymel/eureka/]]></loc>
+		<lastmod><![CDATA[2025-12-03T16:07:57+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://zymvol.com/wp-content/uploads/2025/08/Eureka-scaled.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://zymvol.com/public-projects/#oxymel/cofunded-by-the-european-union/]]></loc>
+		<lastmod><![CDATA[2025-12-03T16:07:55+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://zymvol.com/wp-content/uploads/2025/08/CoFunded-by-the-European-Union-scaled.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://zymvol.com/public-projects/#oxymel/cdti/]]></loc>
+		<lastmod><![CDATA[2025-12-03T16:07:53+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://zymvol.com/wp-content/uploads/2025/08/CDTI-scaled.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://zymvol.com/public-projects/#torres-quevedo/miciu-aei_ge-1/]]></loc>
+		<lastmod><![CDATA[2025-12-03T16:00:24+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://zymvol.com/wp-content/uploads/2025/08/miciu-aei_GE-1-scaled.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://zymvol.com/public-projects/#cozyme/cost-european-cooperation-in-science-and-technology-2/]]></loc>
+		<lastmod><![CDATA[2025-12-03T15:57:26+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://zymvol.com/wp-content/uploads/2025/12/COST-European-Cooperation-in-Science-and-Technology-2-scaled.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://zymvol.com/public-projects/#cozyme/cost-european-cooperation-in-science-and-technology-1/]]></loc>
+		<lastmod><![CDATA[2025-12-03T15:55:06+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://zymvol.com/wp-content/uploads/2025/12/COST-European-Cooperation-in-Science-and-Technology-1-scaled.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://zymvol.com/public-projects/#cozyme/cost-european-cooperation-in-science-and-technology/]]></loc>
+		<lastmod><![CDATA[2025-12-03T15:54:01+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://zymvol.com/wp-content/uploads/2025/12/COST-European-Cooperation-in-Science-and-Technology-e1764777363786.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://zymvol.com/public-projects/#cozyme/cozyme_funding_2/]]></loc>
+		<lastmod><![CDATA[2025-12-03T14:53:02+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://zymvol.com/wp-content/uploads/2025/12/Cozyme_Funding_2-scaled.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://zymvol.com/public-projects/#biodeccodinng/biodeccodinng_funding_1/]]></loc>
+		<lastmod><![CDATA[2025-12-03T14:40:07+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://zymvol.com/wp-content/uploads/2025/12/Biodeccodinng_Funding_1-scaled.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://zymvol.com/public-projects/#foambloom/foambloom_funding_1/]]></loc>
+		<lastmod><![CDATA[2025-12-03T14:33:41+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://zymvol.com/wp-content/uploads/2025/12/Foambloom_Funding_1-scaled.png]]>			</image:loc>
+		</image:image>
+	</url>
 	<url>
 		<loc><![CDATA[https://zymvol.com/careers/joboffer_businessdevelopmentlead_zymvol_2025/]]></loc>
 		<lastmod><![CDATA[2025-11-19T09:26:12+00:00]]></lastmod>
