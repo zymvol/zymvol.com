@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- This sitemap was dynamically generated on February 10, 2026 at 8:59 am by All in One SEO v4.8.7 - the original SEO plugin for WordPress. -->
+<!-- This sitemap was dynamically generated on February 13, 2026 at 10:38 am by All in One SEO v4.8.7 - the original SEO plugin for WordPress. -->
 
 <?xml-stylesheet type="text/xsl" href="https://zymvol.com/main-sitemap.xsl"?>
 <urlset
@@ -9,7 +9,7 @@
 >
 	<url>
 		<loc><![CDATA[https://zymvol.com/stories/simpler-oxygenated-product-synthesis-by-altering-enzyme-specificity/]]></loc>
-		<lastmod><![CDATA[2025-11-26T16:51:00+00:00]]></lastmod>
+		<lastmod><![CDATA[2026-02-13T10:32:41+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
@@ -18,13 +18,33 @@
 		</image:image>
 	</url>
 	<url>
+		<loc><![CDATA[https://zymvol.com/stories/improving-artificial-enzyme-performance-with-distal-mutations/]]></loc>
+		<lastmod><![CDATA[2026-02-13T10:27:52+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://zymvol.com/wp-content/uploads/2025/08/medical-development-laboratory.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc><![CDATA[https://zymvol.com/stories/delivering-a-17x-specificity-boost-in-6-months/]]></loc>
-		<lastmod><![CDATA[2025-11-04T09:01:38+00:00]]></lastmod>
+		<lastmod><![CDATA[2026-02-13T10:22:42+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
 			<image:loc>
 				<![CDATA[https://zymvol.com/wp-content/uploads/2025/08/img-10.webp]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://zymvol.com/stories/identifying-a-high-performing-kred-for-api-synthesis/]]></loc>
+		<lastmod><![CDATA[2026-02-13T10:04:26+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://zymvol.com/wp-content/uploads/2025/09/pile-white-pills-closeup.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -38,16 +58,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[https://zymvol.com/stories/identifying-a-high-performing-kred-for-api-synthesis/]]></loc>
-		<lastmod><![CDATA[2025-10-15T11:21:45+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc>
-				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/09/pile-white-pills-closeup.jpg]]>			</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc><![CDATA[https://zymvol.com/stories/increasing-success-rates-with-early-feasibility-prediction/]]></loc>
 		<lastmod><![CDATA[2025-10-15T11:21:00+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
@@ -55,16 +65,6 @@
 		<image:image>
 			<image:loc>
 				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/09/chemical-laboratory.jpg]]>			</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc><![CDATA[https://zymvol.com/stories/improving-artificial-enzyme-performance-with-distal-mutations/]]></loc>
-		<lastmod><![CDATA[2025-10-15T11:17:37+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc>
-				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/medical-development-laboratory.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 </urlset>
