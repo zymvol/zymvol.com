@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- This sitemap was dynamically generated on February 13, 2026 at 10:38 am by All in One SEO v4.8.7 - the original SEO plugin for WordPress. -->
+<!-- This sitemap was dynamically generated on February 17, 2026 at 8:35 am by All in One SEO v4.8.7 - the original SEO plugin for WordPress. -->
 
 <?xml-stylesheet type="text/xsl" href="https://zymvol.com/main-sitemap.xsl"?>
 <urlset
@@ -25,6 +25,46 @@
 		<image:image>
 			<image:loc>
 				<![CDATA[https://zymvol.com/wp-content/uploads/2026/01/Article-image-ZV-003-V1.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://zymvol.com/knowledge-hub/feasibility-prediction-enzyme-discovery/confidence-score/]]></loc>
+		<lastmod><![CDATA[2026-02-03T15:45:56+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://zymvol.com/wp-content/uploads/2026/02/Confidence-Score.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://zymvol.com/knowledge-hub/feasibility-prediction-enzyme-discovery/predict-prioritize-prove/]]></loc>
+		<lastmod><![CDATA[2026-02-03T15:04:33+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://zymvol.com/wp-content/uploads/2026/02/Predict-Prioritize-Prove.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://zymvol.com/knowledge-hub/feasibility-prediction-enzyme-discovery/confidence-score-table/]]></loc>
+		<lastmod><![CDATA[2026-02-03T14:55:34+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://zymvol.com/wp-content/uploads/2026/02/Confidence-score-table.webp]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://zymvol.com/knowledge-hub/feasibility-prediction-enzyme-discovery/article-image-zv-004-v1/]]></loc>
+		<lastmod><![CDATA[2026-02-03T14:51:57+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://zymvol.com/wp-content/uploads/2026/02/Article-image-ZV-004-V1.png]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
