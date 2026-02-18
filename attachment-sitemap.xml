@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- This sitemap was dynamically generated on February 17, 2026 at 8:35 am by All in One SEO v4.8.7 - the original SEO plugin for WordPress. -->
+<!-- This sitemap was dynamically generated on February 18, 2026 at 7:55 am by All in One SEO v4.8.7 - the original SEO plugin for WordPress. -->
 
 <?xml-stylesheet type="text/xsl" href="https://zymvol.com/main-sitemap.xsl"?>
 <urlset
@@ -7,6 +7,28 @@
 	xmlns:xhtml="http://www.w3.org/1999/xhtml"
 	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
 >
+	<url>
+		<loc><![CDATA[https://zymvol.com/knowledge-hub/olon-zymvol-partnership-biocatalysis-pharmaceutical/pharmaceutical-manufacturing-line-with-tablets-being-processed/]]></loc>
+		<lastmod><![CDATA[2026-02-18T07:46:57+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[https://zymvol.com/knowledge-hub/olon-zymvol-partnership-biocatalysis-pharmaceutical/pill-cascade-pharmaceutical-conveyor-belt/]]></loc>
+		<lastmod><![CDATA[2026-02-18T07:46:50+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[https://zymvol.com/knowledge-hub/olon-zymvol-partnership-biocatalysis-pharmaceutical/olon-x-zymvol-partnership/]]></loc>
+		<lastmod><![CDATA[2026-02-17T10:28:48+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://zymvol.com/wp-content/uploads/2026/02/Olon-x-Zymvol-Partnership.png]]>			</image:loc>
+		</image:image>
+	</url>
 	<url>
 		<loc><![CDATA[https://zymvol.com/knowledge-hub/patent-cliff-generics-biocatalysis/article-image-zv-003-v2-1/]]></loc>
 		<lastmod><![CDATA[2026-02-03T16:03:07+00:00]]></lastmod>
