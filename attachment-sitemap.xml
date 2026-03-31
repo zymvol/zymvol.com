@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- This sitemap was dynamically generated on March 31, 2026 at 8:59 am by All in One SEO v4.8.7 - the original SEO plugin for WordPress. -->
+<!-- This sitemap was dynamically generated on March 31, 2026 at 2:35 pm by All in One SEO v4.8.7 - the original SEO plugin for WordPress. -->
 
 <?xml-stylesheet type="text/xsl" href="https://zymvol.com/main-sitemap.xsl"?>
 <urlset
@@ -7,6 +7,46 @@
 	xmlns:xhtml="http://www.w3.org/1999/xhtml"
 	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
 >
+	<url>
+		<loc><![CDATA[https://zymvol.com/stories/sustainable-vanillin-production-distal-mutations/successstory_zymvol_03/]]></loc>
+		<lastmod><![CDATA[2026-03-31T13:15:55+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://zymvol.com/wp-content/uploads/2026/03/SuccessStory_Zymvol_03.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://zymvol.com/stories/fto-api-production/successstory_zymvol_01_/]]></loc>
+		<lastmod><![CDATA[2026-03-31T11:13:07+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://zymvol.com/wp-content/uploads/2026/03/SuccessStory_Zymvol_01_.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://zymvol.com/stories/identifying-a-high-performing-kred-for-api-synthesis/successstory_zymvol_02/]]></loc>
+		<lastmod><![CDATA[2026-03-31T10:53:20+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://zymvol.com/wp-content/uploads/2025/09/SuccessStory_Zymvol_02.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://zymvol.com/stories/fto-api-production/successstory_zymvol_01/]]></loc>
+		<lastmod><![CDATA[2026-03-31T10:50:17+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://zymvol.com/wp-content/uploads/2026/03/SuccessStory_Zymvol_01.png]]>			</image:loc>
+		</image:image>
+	</url>
 	<url>
 		<loc><![CDATA[https://zymvol.com/about/olon_logo_web/]]></loc>
 		<lastmod><![CDATA[2026-03-31T08:40:03+00:00]]></lastmod>
@@ -4035,16 +4075,6 @@
 		<image:image>
 			<image:loc>
 				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/Eureka_CDTI_Funding_01-768x392-1.png]]>			</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc><![CDATA[https://zymvol.com/stories/identifying-a-high-performing-kred-for-api-synthesis/pile-of-white-pills-closeup/]]></loc>
-		<lastmod><![CDATA[2025-09-12T10:04:44+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc>
-				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/09/pile-white-pills-closeup-scaled.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
