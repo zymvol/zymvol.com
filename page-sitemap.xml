@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- This sitemap was dynamically generated on May 5, 2026 at 10:22 am by All in One SEO v4.8.7 - the original SEO plugin for WordPress. -->
+<!-- This sitemap was dynamically generated on May 12, 2026 at 7:36 am by All in One SEO v4.8.7 - the original SEO plugin for WordPress. -->
 
 <?xml-stylesheet type="text/xsl" href="https://zymvol.com/main-sitemap.xsl"?>
 <urlset
@@ -107,6 +107,16 @@
 		<image:image>
 			<image:loc>
 				<![CDATA[https://zymvol.com/wp-content/uploads/2025/08/img-image-text-section-001.webp]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://zymvol.com/legal-notice/]]></loc>
+		<lastmod><![CDATA[2026-05-12T07:36:14+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/shape-enzyme-001-2.svg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -642,16 +652,6 @@
 		<lastmod><![CDATA[2025-10-15T10:44:35+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
-	</url>
-	<url>
-		<loc><![CDATA[https://zymvol.com/legal-notice/]]></loc>
-		<lastmod><![CDATA[2025-10-15T10:42:23+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc>
-				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/shape-enzyme-001-2.svg]]>			</image:loc>
-		</image:image>
 	</url>
 	<url>
 		<loc><![CDATA[https://zymvol.com/legal-notice-spanish/]]></loc>
