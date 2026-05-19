@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- This sitemap was dynamically generated on May 12, 2026 at 7:36 am by All in One SEO v4.8.7 - the original SEO plugin for WordPress. -->
+<!-- This sitemap was dynamically generated on May 19, 2026 at 9:33 am by All in One SEO v4.8.7 - the original SEO plugin for WordPress. -->
 
 <?xml-stylesheet type="text/xsl" href="https://zymvol.com/main-sitemap.xsl"?>
 <urlset
@@ -7,6 +7,22 @@
 	xmlns:xhtml="http://www.w3.org/1999/xhtml"
 	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
 >
+	<url>
+		<loc><![CDATA[https://zymvol.com/careers/joboffer_paralegal_2026/]]></loc>
+		<lastmod><![CDATA[2026-05-19T08:57:58+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[https://zymvol.com/test_whitepapercover/]]></loc>
+		<lastmod><![CDATA[2026-05-12T09:32:24+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://zymvol.com/wp-content/uploads/2026/05/Test_WhitepaperCover.png]]>			</image:loc>
+		</image:image>
+	</url>
 	<url>
 		<loc><![CDATA[https://zymvol.com/stories/pharmaceutical-cofactor-regeneration-biocatalysis/successstory_zymvol_cofactor-regenaration-pharma/]]></loc>
 		<lastmod><![CDATA[2026-05-05T09:01:04+00:00]]></lastmod>
