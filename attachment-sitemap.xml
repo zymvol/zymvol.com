@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- This sitemap was dynamically generated on September 23, 2026 at 10:51 am by All in One SEO v4.8.7 - the original SEO plugin for WordPress. -->
+<!-- This sitemap was dynamically generated on September 30, 2026 at 12:33 pm by All in One SEO v4.8.7 - the original SEO plugin for WordPress. -->
 
 <?xml-stylesheet type="text/xsl" href="https://zymvol.com/main-sitemap.xsl"?>
 <urlset
@@ -12,6 +12,10 @@
 		<lastmod><![CDATA[2026-09-23T10:46:29+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://zymvol.com/wp-content/uploads/2026/09/Medichem_webp.webp]]>			</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc><![CDATA[https://zymvol.com/knowledge-hub/5-bioprocess-challenges-weve-helped-our-partners-solve-with-examples/blog_bioprocesschallenges/]]></loc>
