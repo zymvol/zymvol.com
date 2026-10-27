@@ -1,0 +1,135 @@
+.elementor-2427 .elementor-element.elementor-element-621466a{--spacer-size:50px;}#elementor-popup-modal-2427 .dialog-widget-content{background-color:#FFFFFF00;box-shadow:2px 8px 23px 3px rgba(0,0,0,0.2);}#elementor-popup-modal-2427{background-color:rgba(0,0,0,.8);justify-content:center;align-items:center;pointer-events:all;}#elementor-popup-modal-2427 .dialog-message{width:640px;height:auto;}#elementor-popup-modal-2427 .dialog-close-button{display:flex;}/* Start custom CSS for html, class: .elementor-element-3f0d72b */.elementor-widget-html.custom-zymvol-form .hs-form,
+.elementor-widget-html.custom-zymvol-form .hs-form label,
+.elementor-widget-html.custom-zymvol-form .hs-form .hs-richtext {
+    font-family: 'Lato', sans-serif;
+    color: #292753;
+}
+
+/* Base Input Styling: Bottom Borders Only */
+.elementor-widget-html.custom-zymvol-form .hs-form input[type="text"],
+.elementor-widget-html.custom-zymvol-form .hs-form input[type="email"],
+.elementor-widget-html.custom-zymvol-form .hs-form textarea,
+.elementor-widget-html.custom-zymvol-form .hs-form select {
+    background-color: transparent;
+    border: none;
+    border-bottom: 1px solid #292753;
+    border-radius: 0;
+    color: #292753;
+    width: 100%;
+    padding: 12px 0;
+    margin-bottom: 24px;
+    box-shadow: none;
+    outline: none;
+    font-size: 16px;
+    font-family: 'Lato', sans-serif;
+}
+
+/* Remove background from autofill */
+.elementor-widget-html.custom-zymvol-form .hs-form input:-webkit-autofill {
+    -webkit-box-shadow: 0 0 0 30px transparent inset;
+    -webkit-text-fill-color: #292753;
+    transition: background-color 5000s ease-in-out 0s;
+}
+
+/* Custom Select Dropdown Arrow */
+.elementor-widget-html.custom-zymvol-form .hs-form select {
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    background-image: url('data:image/svg+xml;utf8,<svg fill="%23292753" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M7 10l5 5 5-5z"/><path d="M0 0h24v24H0z" fill="none"/></svg>');
+    background-repeat: no-repeat;
+    background-position: right 8px center;
+    cursor: pointer;
+}
+
+/* Textarea specifics */
+.elementor-widget-html.custom-zymvol-form .hs-form textarea {
+    resize: vertical;
+    min-height: 40px;
+}
+
+/* Hide default labels assuming placeholders are used */
+.elementor-widget-html.custom-zymvol-form .hs-form .hs-form-field > label {
+    display: none; 
+}
+
+/* Scrollable Legal Text Box (Targets HubSpot's Rich Text module) */
+.elementor-widget-html.custom-zymvol-form .hs-form .hs-richtext {
+    max-height: 120px;
+    overflow-y: auto;
+    border: 1px solid #292753;
+    border-radius: 6px;
+    padding: 12px;
+    margin-bottom: 24px;
+    font-size: 12px;
+    line-height: 1.4;
+    background-color: transparent;
+    display: block;
+}
+
+/* Scrollbar styling for Legal Box */
+.elementor-widget-html.custom-zymvol-form .hs-form .hs-richtext::-webkit-scrollbar {
+    width: 8px;
+}
+.elementor-widget-html.custom-zymvol-form .hs-form .hs-richtext::-webkit-scrollbar-thumb {
+    background-color: #292753;
+    border-radius: 4px;
+}
+
+/* Checkbox Alignment and Styling (Separated from the text box) */
+.elementor-widget-html.custom-zymvol-form .hs-form .inputs-list {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 24px 0;
+    display: block; /* Ensures it sits outside and below the rich text box */
+}
+.elementor-widget-html.custom-zymvol-form .hs-form .inputs-list li {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 16px;
+}
+.elementor-widget-html.custom-zymvol-form .hs-form input[type="checkbox"] {
+    appearance: none;
+    -webkit-appearance: none;
+    width: 18px;
+    height: 18px;
+    border: 1px solid #292753;
+    border-radius: 2px;
+    margin-right: 12px;
+    margin-top: 2px;
+    cursor: pointer;
+    background-color: transparent;
+    position: relative;
+    flex-shrink: 0;
+}
+.elementor-widget-html.custom-zymvol-form .hs-form input[type="checkbox"]:checked::after {
+    content: '✔';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #292753;
+    font-size: 12px;
+}
+.elementor-widget-html.custom-zymvol-form .hs-form .inputs-list label {
+    font-size: 13px;
+    line-height: 1.4;
+    cursor: pointer;
+}
+
+/* Submit Button */
+.elementor-widget-html.custom-zymvol-form .hs-form .hs-button {
+    background-color: #292753;
+    color: #ffffff;
+    border: none;
+    border-radius: 25px;
+    padding: 12px 32px;
+    font-size: 16px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 600;
+    cursor: pointer;
+    transition: opacity 0.3s ease;
+}
+.elementor-widget-html.custom-zymvol-form .hs-form .hs-button:hover {
+    opacity: 0.85;
+}/* End custom CSS */
