@@ -83,26 +83,318 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 <link rel="stylesheet" id="style-css" href="https://zymvol.com/wp-content/themes/zymvol/style.css?ver=7.1.4" media="all">
 <link rel="stylesheet" id="elementor-frontend-css" href="https://zymvol.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=4.3.5" media="all">
 <style id="elementor-frontend-inline-css">
+.elementor-kit-2265{--e-global-color-primary:#292753;--e-global-color-secondary:#FFFFFF;--e-global-color-text:#292753;--e-global-color-accent:#F5BF9E;--e-global-color-67dce94:#CAB1D1;--e-global-color-edd7b50:#F3E8DF;--e-global-color-eacd59a:#C2D5A6;--e-global-color-7a571e1:#D1EBFF;--e-global-typography-primary-font-family:"NaN Hyena Sunset Medium";--e-global-typography-primary-font-weight:400;--e-global-typography-secondary-font-family:"Lato";--e-global-typography-secondary-font-weight:400;--e-global-typography-text-font-family:"Lato";--e-global-typography-text-font-weight:400;--e-global-typography-accent-font-family:"Lato";--e-global-typography-accent-font-weight:600;}.elementor-kit-2265 e-page-transition{background-color:#FFBC7D;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1140px;}.e-con{--container-max-width:1140px;}.elementor-widget:not(:last-child){--kit-widget-spacing:20px;}.elementor-element{--widgets-spacing:20px 20px;--widgets-spacing-row:20px;--widgets-spacing-column:20px;}{}h1.entry-title{display:var(--page-title-display);}@media(max-width:1024px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-con{--container-max-width:1024px;}}@media(max-width:767px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}.e-con{--container-max-width:767px;}}:root { --White:#ffffff; --Beige:#F3E8DF; --Blue:#D1EBFF; --DarkBlue:#292753; }
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'NaN Hyena Sunset Medium';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://zymvol.com/wp-content/uploads/2026/10/NaN-Hyena-Sunset-Medium.woff2') format('woff2'),
+		url('https://zymvol.com/wp-content/uploads/2026/10/NaN-Hyena-Sunset-Medium.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */
 .e-heading-base a, .e-paragraph-base a { all: unset; cursor: pointer; }form[data-element_type="e-form"].form-state-success [data-element_type="e-form-success-message"],form[data-element_type="e-form"].form-state-error [data-element_type="e-form-error-message"]{ display: block; }.elementor-edit-mode [data-element_type="e-form-success-message"]:is(.elementor-element-editable, :has(.elementor-element-editable), :has(> .elementor-empty-view)),.elementor-edit-mode [data-element_type="e-form-error-message"]:is(.elementor-element-editable, :has(.elementor-element-editable), :has(> .elementor-empty-view)){ display: block; }.e-background-video { position: relative; overflow: hidden; }.e-background-video__media { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; pointer-events: none; z-index: 0; }.e-background-video__content { position: relative; z-index: 1; flex: 1 1 auto; }.elementor-edit-mode .e-background-video__content.e-atomic-element:has(> .elementor-empty-view) { display: flex; flex-direction: column; flex: 1 1 auto; min-height: 0; }.elementor-edit-mode .e-background-video__content.e-atomic-element:has(> .elementor-empty-view) > .elementor-empty-view.elementor-empty-view { position: relative; flex: 1 1 auto; min-height: 120px; height: auto; width: 100%; }.elementor-edit-mode .e-background-video__content.e-atomic-element:has(> .elementor-empty-view) > .elementor-empty-view > .elementor-first-add { position: absolute; inset: 0; width: 100%; height: 100%; }.e-background-video__controls { z-index: 2; }.e-background-video__play, .e-background-video__pause { appearance: none; -webkit-appearance: none; }.e-background-video.e-background-video--playing .e-background-video__play { display: none; }.e-background-video.e-background-video--paused .e-background-video__pause { display: none; }.e-background-video:not(.e-background-video--playing):not(.e-background-video--paused) .e-background-video__controls,.e-background-video:not(.e-background-video--playing):not(.e-background-video--paused) .e-background-video__play,.e-background-video:not(.e-background-video--playing):not(.e-background-video--paused) .e-background-video__pause { display: none; }.e-accordion-item-header-base { list-style: none; }.e-accordion-item-header-base::-webkit-details-marker { display: none; }.e-accordion-item-base { interpolate-size: allow-keywords; }.e-accordion-item-base::details-content {block-size: 0; overflow: hidden;transition: block-size .3s ease, content-visibility .3s ease allow-discrete;}.e-accordion-item-base[open]::details-content { block-size: auto; }.e-accordion-item-icon-base.e-accordion-item-icon-base .e-svg-base { width: auto; height: 100%; max-width: 100%; }.e-accordion-item-icon-base.e-accordion-item-icon-base .e-svg-base svg { width: auto !important; }.e-accordion-item-icon-base svg { transition: transform .3s ease; }.e-accordion-item-base[open] > summary .e-accordion-item-icon-base svg { transform: rotate(180deg); }
 .e-form-textarea-base:not([data-resizable]) { resize: none; } .e-form-submit-button-base { cursor: pointer; box-sizing: border-box; }
+.elementor-widget-button .elementor-button{background-color:var( --e-global-color-accent );font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-weight:var( --e-global-typography-accent-font-weight );}.elementor-2476 .elementor-element.elementor-element-3fbabcbc .elementor-button{background-color:#292753;font-family:"NaN Hyena Sunset Medium", Sans-serif;font-size:16px;font-weight:500;font-style:normal;text-decoration:none;line-height:1em;letter-spacing:0px;fill:#FFFFFF;color:#FFFFFF;border-style:none;border-radius:100px 100px 100px 100px;padding:16px 30px 16px 30px;}.elementor-2476 .elementor-element.elementor-element-3fbabcbc .elementor-button:hover, .elementor-2476 .elementor-element.elementor-element-3fbabcbc .elementor-button:focus{background-color:#292753;color:#FFFFFF;}.elementor-2476 .elementor-element.elementor-element-3fbabcbc{width:auto;max-width:auto;}.elementor-2476 .elementor-element.elementor-element-3fbabcbc.elementor-element{--flex-grow:0;--flex-shrink:0;}.elementor-2476 .elementor-element.elementor-element-3fbabcbc .elementor-button-content-wrapper{flex-direction:row-reverse;}.elementor-2476 .elementor-element.elementor-element-3fbabcbc .elementor-button .elementor-button-content-wrapper{gap:10px;}.elementor-2476 .elementor-element.elementor-element-3fbabcbc .elementor-button:hover svg, .elementor-2476 .elementor-element.elementor-element-3fbabcbc .elementor-button:focus svg{fill:#FFFFFF;}.elementor-2476 .elementor-element.elementor-element-40c5f4fa .elementor-button{background-color:#FFFFFF00;font-family:"NaN Hyena Sunset Medium", Sans-serif;font-size:16px;font-weight:500;font-style:normal;text-decoration:underline;line-height:1em;letter-spacing:0px;fill:#292753;color:#292753;border-radius:100px 100px 100px 100px;padding:16px 30px 16px 30px;}.elementor-2476 .elementor-element.elementor-element-40c5f4fa .elementor-button:hover, .elementor-2476 .elementor-element.elementor-element-40c5f4fa .elementor-button:focus{background-color:#02010100;color:#292753;border-color:#292753;}.elementor-2476 .elementor-element.elementor-element-40c5f4fa{width:auto;max-width:auto;}.elementor-2476 .elementor-element.elementor-element-40c5f4fa.elementor-element{--flex-grow:0;--flex-shrink:0;}.elementor-2476 .elementor-element.elementor-element-40c5f4fa .elementor-button:hover svg, .elementor-2476 .elementor-element.elementor-element-40c5f4fa .elementor-button:focus svg{fill:#292753;}.elementor-widget-counter .elementor-counter-number-wrapper{color:var( --e-global-color-primary );font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-counter .elementor-counter-title{color:var( --e-global-color-secondary );font-family:var( --e-global-typography-secondary-font-family ), Sans-serif;font-weight:var( --e-global-typography-secondary-font-weight );}.elementor-2476 .elementor-element.elementor-element-aa4bf52.elementor-element{--align-self:center;}.elementor-2476 .elementor-element.elementor-element-aa4bf52 .elementor-counter-number-wrapper{text-align:{{VALUE}};--counter-prefix-grow:1;--counter-suffix-grow:1;--counter-number-grow:0;color:#292753;font-family:"NaN Hyena Sunset Medium", Sans-serif;font-size:4rem;font-weight:500;line-height:1em;}.elementor-2476 .elementor-element.elementor-element-88752b0.elementor-element{--align-self:center;}.elementor-2476 .elementor-element.elementor-element-88752b0 .elementor-counter-number-wrapper{text-align:{{VALUE}};--counter-prefix-grow:1;--counter-suffix-grow:1;--counter-number-grow:0;color:var( --e-global-color-primary );font-family:"NaN Hyena Sunset Medium", Sans-serif;font-size:4rem;font-weight:500;line-height:1em;}.elementor-2476 .elementor-element.elementor-element-aed2460.elementor-element{--align-self:center;}.elementor-2476 .elementor-element.elementor-element-aed2460 .elementor-counter-number-wrapper{text-align:{{VALUE}};--counter-prefix-grow:1;--counter-suffix-grow:1;--counter-number-grow:0;color:var( --e-global-color-primary );font-family:"NaN Hyena Sunset Medium", Sans-serif;font-size:4rem;font-weight:500;line-height:1em;}.elementor-2476 .elementor-element.elementor-element-9bd4cde.elementor-element{--align-self:center;}.elementor-2476 .elementor-element.elementor-element-9bd4cde .elementor-counter-number-wrapper{text-align:{{VALUE}};--counter-prefix-grow:1;--counter-suffix-grow:1;--counter-number-grow:0;color:var( --e-global-color-primary );font-family:"NaN Hyena Sunset Medium", Sans-serif;font-size:4rem;font-weight:500;line-height:1em;}.elementor-2476 .elementor-element.elementor-element-41ae589.elementor-element{--align-self:center;}.elementor-2476 .elementor-element.elementor-element-41ae589 .elementor-counter-number-wrapper{text-align:{{VALUE}};--counter-prefix-grow:1;--counter-suffix-grow:1;--counter-number-grow:0;color:var( --e-global-color-primary );font-family:"NaN Hyena Sunset Medium", Sans-serif;font-size:4rem;font-weight:500;line-height:1em;}.elementor-2476 .elementor-element.elementor-element-4a3e556{--spacer-size:20px;}.elementor-widget-icon-box.elementor-view-stacked .elementor-icon{background-color:var( --e-global-color-primary );}.elementor-widget-icon-box.elementor-view-framed .elementor-icon, .elementor-widget-icon-box.elementor-view-default .elementor-icon{fill:var( --e-global-color-primary );color:var( --e-global-color-primary );border-color:var( --e-global-color-primary );}.elementor-widget-icon-box .elementor-icon-box-title, .elementor-widget-icon-box .elementor-icon-box-title a{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-icon-box .elementor-icon-box-title{color:var( --e-global-color-primary );}.elementor-widget-icon-box:has(:hover) .elementor-icon-box-title,
+					 .elementor-widget-icon-box:has(:focus) .elementor-icon-box-title{color:var( --e-global-color-primary );}.elementor-widget-icon-box .elementor-icon-box-description{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );color:var( --e-global-color-text );}.elementor-2476 .elementor-element.elementor-element-1315b7e{width:var( --container-widget-width, 50.138% );max-width:50.138%;padding:0rem 0rem 0rem 0rem;--container-widget-width:50.138%;--container-widget-flex-grow:0;}.elementor-2476 .elementor-element.elementor-element-1315b7e.elementor-element{--flex-grow:0;--flex-shrink:0;}.elementor-2476 .elementor-element.elementor-element-1315b7e .elementor-icon-box-wrapper{align-items:center;text-align:start;gap:8px;}.elementor-2476 .elementor-element.elementor-element-1315b7e .elementor-icon-box-title{margin-block-end:0px;color:var( --e-global-color-secondary );}.elementor-2476 .elementor-element.elementor-element-1315b7e.elementor-view-stacked .elementor-icon{background-color:var( --e-global-color-7a571e1 );fill:#292753;color:#292753;}.elementor-2476 .elementor-element.elementor-element-1315b7e.elementor-view-framed .elementor-icon, .elementor-2476 .elementor-element.elementor-element-1315b7e.elementor-view-default .elementor-icon{fill:var( --e-global-color-7a571e1 );color:var( --e-global-color-7a571e1 );border-color:var( --e-global-color-7a571e1 );}.elementor-2476 .elementor-element.elementor-element-1315b7e.elementor-view-framed .elementor-icon{background-color:#292753;}.elementor-2476 .elementor-element.elementor-element-1315b7e .elementor-icon{font-size:16px;padding:6px;}.elementor-2476 .elementor-element.elementor-element-1315b7e .elementor-icon i{transform:rotate(0deg);}.elementor-2476 .elementor-element.elementor-element-1315b7e .elementor-icon-box-title, .elementor-2476 .elementor-element.elementor-element-1315b7e .elementor-icon-box-title a{font-family:"NaN Hyena Sunset Medium", Sans-serif;font-size:14px;font-weight:400;letter-spacing:0.2px;}.elementor-2476 .elementor-element.elementor-element-1315b7e:has(:hover) .elementor-icon-box-title,
+					 .elementor-2476 .elementor-element.elementor-element-1315b7e:has(:focus) .elementor-icon-box-title{color:var( --e-global-color-secondary );}.elementor-2476 .elementor-element.elementor-element-1315b7e .elementor-icon-box-description{color:#FFFFFF;}.elementor-2476 .elementor-element.elementor-element-a2a2fe8{width:var( --container-widget-width, 57.049% );max-width:57.049%;padding:0rem 0rem 0rem 0rem;--container-widget-width:57.049%;--container-widget-flex-grow:0;}.elementor-2476 .elementor-element.elementor-element-a2a2fe8.elementor-element{--order:99999 /* order end hack */;--flex-grow:0;--flex-shrink:0;}.elementor-2476 .elementor-element.elementor-element-a2a2fe8 .elementor-icon-box-wrapper{align-items:center;text-align:start;gap:8px;}.elementor-2476 .elementor-element.elementor-element-a2a2fe8 .elementor-icon-box-title{margin-block-end:0px;color:var( --e-global-color-secondary );}.elementor-2476 .elementor-element.elementor-element-a2a2fe8.elementor-view-stacked .elementor-icon{background-color:var( --e-global-color-7a571e1 );fill:#292753;color:#292753;}.elementor-2476 .elementor-element.elementor-element-a2a2fe8.elementor-view-framed .elementor-icon, .elementor-2476 .elementor-element.elementor-element-a2a2fe8.elementor-view-default .elementor-icon{fill:var( --e-global-color-7a571e1 );color:var( --e-global-color-7a571e1 );border-color:var( --e-global-color-7a571e1 );}.elementor-2476 .elementor-element.elementor-element-a2a2fe8.elementor-view-framed .elementor-icon{background-color:#292753;}.elementor-2476 .elementor-element.elementor-element-a2a2fe8 .elementor-icon{font-size:16px;padding:6px;}.elementor-2476 .elementor-element.elementor-element-a2a2fe8 .elementor-icon i{transform:rotate(0deg);}.elementor-2476 .elementor-element.elementor-element-a2a2fe8 .elementor-icon-box-title, .elementor-2476 .elementor-element.elementor-element-a2a2fe8 .elementor-icon-box-title a{font-family:"NaN Hyena Sunset Medium", Sans-serif;font-size:14px;font-weight:400;letter-spacing:0.2px;}.elementor-2476 .elementor-element.elementor-element-a2a2fe8:has(:hover) .elementor-icon-box-title,
+					 .elementor-2476 .elementor-element.elementor-element-a2a2fe8:has(:focus) .elementor-icon-box-title{color:var( --e-global-color-secondary );}.elementor-2476 .elementor-element.elementor-element-a2a2fe8 .elementor-icon-box-description{color:#FFFFFF;}.elementor-2476 .elementor-element.elementor-element-028ede1{width:var( --container-widget-width, 37.818% );max-width:37.818%;padding:0rem 0rem 0rem 0rem;--container-widget-width:37.818%;--container-widget-flex-grow:0;}.elementor-2476 .elementor-element.elementor-element-028ede1.elementor-element{--order:-99999 /* order start hack */;--flex-grow:0;--flex-shrink:0;}.elementor-2476 .elementor-element.elementor-element-028ede1 .elementor-icon-box-wrapper{align-items:center;text-align:start;gap:8px;}.elementor-2476 .elementor-element.elementor-element-028ede1 .elementor-icon-box-title{margin-block-end:0px;color:var( --e-global-color-secondary );}.elementor-2476 .elementor-element.elementor-element-028ede1.elementor-view-stacked .elementor-icon{background-color:var( --e-global-color-7a571e1 );fill:#292753;color:#292753;}.elementor-2476 .elementor-element.elementor-element-028ede1.elementor-view-framed .elementor-icon, .elementor-2476 .elementor-element.elementor-element-028ede1.elementor-view-default .elementor-icon{fill:var( --e-global-color-7a571e1 );color:var( --e-global-color-7a571e1 );border-color:var( --e-global-color-7a571e1 );}.elementor-2476 .elementor-element.elementor-element-028ede1.elementor-view-framed .elementor-icon{background-color:#292753;}.elementor-2476 .elementor-element.elementor-element-028ede1 .elementor-icon{font-size:16px;padding:6px;}.elementor-2476 .elementor-element.elementor-element-028ede1 .elementor-icon i{transform:rotate(0deg);}.elementor-2476 .elementor-element.elementor-element-028ede1 .elementor-icon-box-title, .elementor-2476 .elementor-element.elementor-element-028ede1 .elementor-icon-box-title a{font-family:"NaN Hyena Sunset Medium", Sans-serif;font-size:14px;font-weight:400;letter-spacing:0.2px;}.elementor-2476 .elementor-element.elementor-element-028ede1:has(:hover) .elementor-icon-box-title,
+					 .elementor-2476 .elementor-element.elementor-element-028ede1:has(:focus) .elementor-icon-box-title{color:var( --e-global-color-secondary );}.elementor-2476 .elementor-element.elementor-element-028ede1 .elementor-icon-box-description{color:#FFFFFF;}.elementor-2476 .elementor-element.elementor-element-4653756{width:var( --container-widget-width, 74.779% );max-width:74.779%;padding:2rem 0rem 0rem 0rem;--container-widget-width:74.779%;--container-widget-flex-grow:0;}.elementor-2476 .elementor-element.elementor-element-4653756.elementor-element{--flex-grow:0;--flex-shrink:0;}.elementor-2476 .elementor-element.elementor-element-4653756 .elementor-icon-box-wrapper{align-items:center;text-align:start;gap:8px;}.elementor-2476 .elementor-element.elementor-element-4653756 .elementor-icon-box-title{margin-block-end:0px;color:var( --e-global-color-text );}.elementor-2476 .elementor-element.elementor-element-4653756.elementor-view-stacked .elementor-icon{background-color:var( --e-global-color-67dce94 );fill:#292753;color:#292753;}.elementor-2476 .elementor-element.elementor-element-4653756.elementor-view-framed .elementor-icon, .elementor-2476 .elementor-element.elementor-element-4653756.elementor-view-default .elementor-icon{fill:var( --e-global-color-67dce94 );color:var( --e-global-color-67dce94 );border-color:var( --e-global-color-67dce94 );}.elementor-2476 .elementor-element.elementor-element-4653756.elementor-view-framed .elementor-icon{background-color:#292753;}.elementor-2476 .elementor-element.elementor-element-4653756 .elementor-icon{font-size:16px;padding:6px;}.elementor-2476 .elementor-element.elementor-element-4653756 .elementor-icon i{transform:rotate(0deg);}.elementor-2476 .elementor-element.elementor-element-4653756 .elementor-icon-box-title, .elementor-2476 .elementor-element.elementor-element-4653756 .elementor-icon-box-title a{font-family:"NaN Hyena Sunset Medium", Sans-serif;font-size:14px;font-weight:400;letter-spacing:0.2px;}.elementor-2476 .elementor-element.elementor-element-4653756 .elementor-icon-box-description{color:#FFFFFF;}.elementor-2476 .elementor-element.elementor-element-ca40077.elementor-element{--flex-grow:0;--flex-shrink:0;}.elementor-2476 .elementor-element.elementor-element-458a79a.elementor-element{--flex-grow:0;--flex-shrink:0;}.elementor-2476 .elementor-element.elementor-element-2b09a463{--spacer-size:20px;}.elementor-2476 .elementor-element.elementor-element-1c4e94c1 .elementor-button{background-color:#292753;font-family:"NaN Hyena Sunset Medium", Sans-serif;font-size:16px;font-weight:500;text-transform:capitalize;font-style:normal;text-decoration:none;line-height:1em;letter-spacing:0px;fill:#FFFFFF;color:#FFFFFF;border-style:solid;border-width:1px 1px 1px 1px;border-radius:100px 100px 100px 100px;padding:16px 30px 16px 30px;}.elementor-2476 .elementor-element.elementor-element-1c4e94c1 .elementor-button:hover, .elementor-2476 .elementor-element.elementor-element-1c4e94c1 .elementor-button:focus{background-color:#292753;color:#FFFFFF;}.elementor-2476 .elementor-element.elementor-element-1c4e94c1{width:var( --container-widget-width, 53.162% );max-width:53.162%;--container-widget-width:53.162%;--container-widget-flex-grow:0;}.elementor-2476 .elementor-element.elementor-element-1c4e94c1.elementor-element{--flex-grow:0;--flex-shrink:0;}.elementor-2476 .elementor-element.elementor-element-1c4e94c1 .elementor-button-content-wrapper{flex-direction:row-reverse;}.elementor-2476 .elementor-element.elementor-element-1c4e94c1 .elementor-button .elementor-button-content-wrapper{gap:14px;}.elementor-2476 .elementor-element.elementor-element-1c4e94c1 .elementor-button:hover svg, .elementor-2476 .elementor-element.elementor-element-1c4e94c1 .elementor-button:focus svg{fill:#FFFFFF;}.elementor-2476 .elementor-element.elementor-element-2354276b .elementor-button{background-color:#292753;font-family:"NaN Hyena Sunset Medium", Sans-serif;font-size:16px;font-weight:500;text-transform:capitalize;font-style:normal;text-decoration:none;line-height:1em;letter-spacing:0px;fill:#FFFFFF;color:#FFFFFF;border-style:solid;border-width:1px 1px 1px 1px;border-radius:100px 100px 100px 100px;padding:16px 30px 16px 30px;}.elementor-2476 .elementor-element.elementor-element-2354276b .elementor-button:hover, .elementor-2476 .elementor-element.elementor-element-2354276b .elementor-button:focus{background-color:#292753;color:#FFFFFF;}.elementor-2476 .elementor-element.elementor-element-2354276b{width:var( --container-widget-width, 59.241% );max-width:59.241%;--container-widget-width:59.241%;--container-widget-flex-grow:0;}.elementor-2476 .elementor-element.elementor-element-2354276b.elementor-element{--flex-grow:0;--flex-shrink:0;}.elementor-2476 .elementor-element.elementor-element-2354276b .elementor-button-content-wrapper{flex-direction:row-reverse;}.elementor-2476 .elementor-element.elementor-element-2354276b .elementor-button .elementor-button-content-wrapper{gap:14px;}.elementor-2476 .elementor-element.elementor-element-2354276b .elementor-button:hover svg, .elementor-2476 .elementor-element.elementor-element-2354276b .elementor-button:focus svg{fill:#FFFFFF;}.elementor-2476 .elementor-element.elementor-element-d58239a .elementor-icon-box-wrapper{align-items:center;text-align:start;gap:8px;}.elementor-2476 .elementor-element.elementor-element-d58239a .elementor-icon-box-title{margin-block-end:0px;color:var( --e-global-color-text );}.elementor-2476 .elementor-element.elementor-element-d58239a.elementor-view-stacked .elementor-icon{background-color:#C2D5A6;fill:#292753;color:#292753;}.elementor-2476 .elementor-element.elementor-element-d58239a.elementor-view-framed .elementor-icon, .elementor-2476 .elementor-element.elementor-element-d58239a.elementor-view-default .elementor-icon{fill:#C2D5A6;color:#C2D5A6;border-color:#C2D5A6;}.elementor-2476 .elementor-element.elementor-element-d58239a.elementor-view-framed .elementor-icon{background-color:#292753;}.elementor-2476 .elementor-element.elementor-element-d58239a .elementor-icon{font-size:16px;padding:6px;}.elementor-2476 .elementor-element.elementor-element-d58239a .elementor-icon i{transform:rotate(0deg);}.elementor-2476 .elementor-element.elementor-element-d58239a .elementor-icon-box-title, .elementor-2476 .elementor-element.elementor-element-d58239a .elementor-icon-box-title a{font-family:"NaN Hyena Sunset Medium", Sans-serif;font-size:14px;font-weight:400;letter-spacing:0.2px;}.elementor-2476 .elementor-element.elementor-element-d58239a .elementor-icon-box-description{color:#FFFFFF;}.elementor-2476 .elementor-element.elementor-element-6c5a6bd .elementor-icon-box-wrapper{align-items:center;text-align:start;gap:8px;}.elementor-2476 .elementor-element.elementor-element-6c5a6bd .elementor-icon-box-title{margin-block-end:0px;color:var( --e-global-color-primary );}.elementor-2476 .elementor-element.elementor-element-6c5a6bd.elementor-view-stacked .elementor-icon{background-color:#C2D5A6;fill:#292753;color:#292753;}.elementor-2476 .elementor-element.elementor-element-6c5a6bd.elementor-view-framed .elementor-icon, .elementor-2476 .elementor-element.elementor-element-6c5a6bd.elementor-view-default .elementor-icon{fill:#C2D5A6;color:#C2D5A6;border-color:#C2D5A6;}.elementor-2476 .elementor-element.elementor-element-6c5a6bd.elementor-view-framed .elementor-icon{background-color:#292753;}.elementor-2476 .elementor-element.elementor-element-6c5a6bd .elementor-icon{font-size:16px;padding:6px;}.elementor-2476 .elementor-element.elementor-element-6c5a6bd .elementor-icon i{transform:rotate(0deg);}.elementor-2476 .elementor-element.elementor-element-6c5a6bd .elementor-icon-box-title, .elementor-2476 .elementor-element.elementor-element-6c5a6bd .elementor-icon-box-title a{font-family:"NaN Hyena Sunset Medium", Sans-serif;font-size:14px;font-weight:400;letter-spacing:0.2px;}.elementor-2476 .elementor-element.elementor-element-6c5a6bd .elementor-icon-box-description{color:#FFFFFF;}.elementor-2476 .elementor-element.elementor-element-493db19{--spacer-size:20px;}.elementor-2476 .elementor-element.elementor-element-37ecc8d1{--spacer-size:16px;}.elementor-2476 .elementor-element.elementor-element-5c00cc92{--spacer-size:16px;}.elementor-widget-icon.elementor-view-stacked .elementor-icon{background-color:var( --e-global-color-primary );}.elementor-widget-icon.elementor-view-framed .elementor-icon, .elementor-widget-icon.elementor-view-default .elementor-icon{color:var( --e-global-color-primary );border-color:var( --e-global-color-primary );}.elementor-widget-icon.elementor-view-framed .elementor-icon, .elementor-widget-icon.elementor-view-default .elementor-icon svg{fill:var( --e-global-color-primary );}.elementor-2476 .elementor-element.elementor-element-0c1d5f7{padding:4px 0px 0px 0px;}.elementor-2476 .elementor-element.elementor-element-0c1d5f7 .elementor-icon-wrapper{text-align:start;}.elementor-2476 .elementor-element.elementor-element-0c1d5f7.elementor-view-stacked .elementor-icon{background-color:#C2D5A6;color:var( --e-global-color-text );}.elementor-2476 .elementor-element.elementor-element-0c1d5f7.elementor-view-framed .elementor-icon, .elementor-2476 .elementor-element.elementor-element-0c1d5f7.elementor-view-default .elementor-icon{color:#C2D5A6;border-color:#C2D5A6;}.elementor-2476 .elementor-element.elementor-element-0c1d5f7.elementor-view-framed .elementor-icon, .elementor-2476 .elementor-element.elementor-element-0c1d5f7.elementor-view-default .elementor-icon svg{fill:#C2D5A6;}.elementor-2476 .elementor-element.elementor-element-0c1d5f7.elementor-view-framed .elementor-icon{background-color:var( --e-global-color-text );}.elementor-2476 .elementor-element.elementor-element-0c1d5f7.elementor-view-stacked .elementor-icon svg{fill:var( --e-global-color-text );}.elementor-2476 .elementor-element.elementor-element-0c1d5f7 .elementor-icon{font-size:12px;padding:6px;}.elementor-2476 .elementor-element.elementor-element-0c1d5f7 .elementor-icon svg{height:12px;}.elementor-2476 .elementor-element.elementor-element-bc834b1{padding:4px 0px 0px 0px;}.elementor-2476 .elementor-element.elementor-element-bc834b1 .elementor-icon-wrapper{text-align:start;}.elementor-2476 .elementor-element.elementor-element-bc834b1.elementor-view-stacked .elementor-icon{background-color:#F5BF9E;color:var( --e-global-color-primary );}.elementor-2476 .elementor-element.elementor-element-bc834b1.elementor-view-framed .elementor-icon, .elementor-2476 .elementor-element.elementor-element-bc834b1.elementor-view-default .elementor-icon{color:#F5BF9E;border-color:#F5BF9E;}.elementor-2476 .elementor-element.elementor-element-bc834b1.elementor-view-framed .elementor-icon, .elementor-2476 .elementor-element.elementor-element-bc834b1.elementor-view-default .elementor-icon svg{fill:#F5BF9E;}.elementor-2476 .elementor-element.elementor-element-bc834b1.elementor-view-framed .elementor-icon{background-color:var( --e-global-color-primary );}.elementor-2476 .elementor-element.elementor-element-bc834b1.elementor-view-stacked .elementor-icon svg{fill:var( --e-global-color-primary );}.elementor-2476 .elementor-element.elementor-element-bc834b1 .elementor-icon{font-size:12px;padding:6px;}.elementor-2476 .elementor-element.elementor-element-bc834b1 .elementor-icon svg{height:12px;}.elementor-2476 .elementor-element.elementor-element-58e0476e{--spacer-size:8px;}body.elementor-page-2476{padding:0rem 0rem 0rem 0rem;}@media(max-width:1024px){.elementor-2476 .elementor-element.elementor-element-3fbabcbc .elementor-button{font-size:14px;}.elementor-2476 .elementor-element.elementor-element-40c5f4fa .elementor-button{font-size:14px;}.elementor-2476 .elementor-element.elementor-element-aa4bf52 .elementor-counter-number-wrapper{line-height:0.85em;}.elementor-2476 .elementor-element.elementor-element-88752b0 .elementor-counter-number-wrapper{line-height:0.85em;}.elementor-2476 .elementor-element.elementor-element-aed2460 .elementor-counter-number-wrapper{line-height:0.85em;}.elementor-2476 .elementor-element.elementor-element-9bd4cde .elementor-counter-number-wrapper{line-height:0.85em;}.elementor-2476 .elementor-element.elementor-element-41ae589 .elementor-counter-number-wrapper{line-height:0.85em;}.elementor-2476 .elementor-element.elementor-element-4a3e556{--spacer-size:8px;}.elementor-2476 .elementor-element.elementor-element-1315b7e{width:var( --container-widget-width, 173.917px );max-width:173.917px;--container-widget-width:173.917px;--container-widget-flex-grow:0;}.elementor-2476 .elementor-element.elementor-element-a2a2fe8{width:var( --container-widget-width, 181.333px );max-width:181.333px;--container-widget-width:181.333px;--container-widget-flex-grow:0;}.elementor-2476 .elementor-element.elementor-element-028ede1{width:var( --container-widget-width, 125.292px );max-width:125.292px;--container-widget-width:125.292px;--container-widget-flex-grow:0;}.elementor-2476 .elementor-element.elementor-element-2b09a463{--spacer-size:16px;}.elementor-2476 .elementor-element.elementor-element-1c4e94c1{--container-widget-width:100%;--container-widget-flex-grow:0;width:var( --container-widget-width, 100% );max-width:100%;}.elementor-2476 .elementor-element.elementor-element-1c4e94c1 .elementor-button{font-size:14px;}.elementor-2476 .elementor-element.elementor-element-2354276b{--container-widget-width:100%;--container-widget-flex-grow:0;width:var( --container-widget-width, 100% );max-width:100%;}.elementor-2476 .elementor-element.elementor-element-2354276b .elementor-button{font-size:14px;}}@media(max-width:767px){.elementor-2476 .elementor-element.elementor-element-1315b7e .elementor-icon-box-wrapper{text-align:center;}.elementor-2476 .elementor-element.elementor-element-a2a2fe8 .elementor-icon-box-wrapper{text-align:center;}.elementor-2476 .elementor-element.elementor-element-028ede1.elementor-element{--align-self:center;}.elementor-2476 .elementor-element.elementor-element-028ede1 .elementor-icon-box-wrapper{text-align:center;}.elementor-2476 .elementor-element.elementor-element-4653756.elementor-element{--align-self:center;}.elementor-2476 .elementor-element.elementor-element-4653756 .elementor-icon-box-wrapper{text-align:center;}.elementor-2476 .elementor-element.elementor-element-ca40077{width:var( --container-widget-width, 285.667px );max-width:285.667px;--container-widget-width:285.667px;--container-widget-flex-grow:0;}.elementor-2476 .elementor-element.elementor-element-458a79a{width:var( --container-widget-width, 286.667px );max-width:286.667px;--container-widget-width:286.667px;--container-widget-flex-grow:0;}.elementor-2476 .elementor-element.elementor-element-2b09a463{--spacer-size:8px;}.elementor-2476 .elementor-element.elementor-element-1c4e94c1{width:var( --container-widget-width, 269.281% );max-width:269.281%;--container-widget-width:269.281%;--container-widget-flex-grow:0;}.elementor-2476 .elementor-element.elementor-element-1c4e94c1.elementor-element{--align-self:center;}.elementor-2476 .elementor-element.elementor-element-2354276b{width:var( --container-widget-width, 278.234% );max-width:278.234%;--container-widget-width:278.234%;--container-widget-flex-grow:0;}.elementor-2476 .elementor-element.elementor-element-d58239a .elementor-icon-box-wrapper{text-align:center;}.elementor-2476 .elementor-element.elementor-element-6c5a6bd .elementor-icon-box-wrapper{text-align:center;}.elementor-2476 .elementor-element.elementor-element-0c1d5f7{padding:4px 0px 0px 0px;}.elementor-2476 .elementor-element.elementor-element-0c1d5f7 .elementor-icon{font-size:10px;}.elementor-2476 .elementor-element.elementor-element-0c1d5f7 .elementor-icon svg{height:10px;}.elementor-2476 .elementor-element.elementor-element-bc834b1{padding:4px 0px 0px 0px;}.elementor-2476 .elementor-element.elementor-element-bc834b1.elementor-element{--align-self:center;}.elementor-2476 .elementor-element.elementor-element-bc834b1 .elementor-icon-wrapper{text-align:start;}.elementor-2476 .elementor-element.elementor-element-bc834b1 .elementor-icon{font-size:10px;}.elementor-2476 .elementor-element.elementor-element-bc834b1 .elementor-icon svg{height:10px;}}/* Start custom CSS for html, class: .elementor-element-8bbeeec *//* Custom HubSpot Form CSS for Zymvol Biomodeling */
+.elementor-widget-html.custom-zymvol-form .hs-form,
+.elementor-widget-html.custom-zymvol-form .hs-form label,
+.elementor-widget-html.custom-zymvol-form .hs-form .hs-richtext {
+    font-family: 'Lato', sans-serif;
+    color: #292753;
+}
+
+/* Base Input Styling: Bottom Borders Only */
+.elementor-widget-html.custom-zymvol-form .hs-form input[type="text"],
+.elementor-widget-html.custom-zymvol-form .hs-form input[type="email"],
+.elementor-widget-html.custom-zymvol-form .hs-form textarea,
+.elementor-widget-html.custom-zymvol-form .hs-form select {
+    background-color: transparent;
+    border: none;
+    border-bottom: 1px solid #292753;
+    border-radius: 0;
+    color: #292753;
+    width: 100%;
+    padding: 12px 0;
+    margin-bottom: 24px;
+    box-shadow: none;
+    outline: none;
+    font-size: 12px;
+    font-family: 'Lato', sans-serif;
+}
+
+/* Remove background from autofill */
+.elementor-widget-html.custom-zymvol-form .hs-form input:-webkit-autofill {
+    -webkit-box-shadow: 0 0 0 30px transparent inset;
+    -webkit-text-fill-color: #292753;
+    transition: background-color 5000s ease-in-out 0s;
+}
+
+/* Custom Select Dropdown Arrow */
+.elementor-widget-html.custom-zymvol-form .hs-form select {
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    background-image: url('data:image/svg+xml;utf8,<svg fill="%23292753" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M7 10l5 5 5-5z"/><path d="M0 0h24v24H0z" fill="none"/>');
+    background-repeat: no-repeat;
+    background-position: right 8px center;
+    cursor: pointer;
+}
+
+/* Textarea specifics */
+.elementor-widget-html.custom-zymvol-form .hs-form textarea {
+    resize: vertical;
+    min-height: 40px;
+}
+
+/* Hide default labels assuming placeholders are used */
+.elementor-widget-html.custom-zymvol-form .hs-form .hs-form-field > label {
+    display: none; 
+}
+
+/* Scrollable Legal Text Box (Targets HubSpot's Rich Text module) */
+.elementor-widget-html.custom-zymvol-form .hs-form .hs-richtext {
+    max-height: 80px;
+    overflow-y: auto;
+    border: 1px solid #292753;
+    border-radius: 6px;
+    padding: 12px;
+    margin-bottom: 24px;
+    font-size: 10px;
+    line-height: 1.4;
+    background-color: transparent;
+    display: block;
+}
+
+/* Scrollbar styling for Legal Box */
+.elementor-widget-html.custom-zymvol-form .hs-form .hs-richtext::-webkit-scrollbar {
+    width: 8px;
+}
+.elementor-widget-html.custom-zymvol-form .hs-form .hs-richtext::-webkit-scrollbar-thumb {
+    background-color: #292753;
+    border-radius: 4px;
+}
+
+/* Checkbox Alignment and Styling (Separated from the text box) */
+.elementor-widget-html.custom-zymvol-form .hs-form .inputs-list {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 24px 0;
+    display: block; /* Ensures it sits outside and below the rich text box */
+}
+.elementor-widget-html.custom-zymvol-form .hs-form .inputs-list li {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 16px;
+}
+.elementor-widget-html.custom-zymvol-form .hs-form input[type="checkbox"] {
+    appearance: none;
+    -webkit-appearance: none;
+    width: 18px;
+    height: 18px;
+    border: 1px solid #292753;
+    border-radius: 2px;
+    margin-right: 12px;
+    margin-top: 2px;
+    cursor: pointer;
+    background-color: transparent;
+    position: relative;
+    flex-shrink: 0;
+}
+.elementor-widget-html.custom-zymvol-form .hs-form input[type="checkbox"]:checked::after {
+    content: '✔';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #292753;
+    font-size: 12px;
+}
+.elementor-widget-html.custom-zymvol-form .hs-form .inputs-list label {
+    font-size: 10px;
+    line-height: 1.4;
+    margin-bottom: -6px;
+    cursor: pointer;
+}
+
+/* Submit Button */
+.elementor-widget-html.custom-zymvol-form .hs-form .hs-button {
+    background-color: #292753;
+    color: #ffffff;
+    border: none;
+    border-radius: 25px;
+    padding: 12px 32px;
+    font-size: 16px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 600;
+    cursor: pointer;
+    transition: opacity 0.3s ease;
+}
+.elementor-widget-html.custom-zymvol-form .hs-form .hs-button:hover {
+    opacity: 0.85;
+}/* End custom CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'NaN Hyena Sunset Medium';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://zymvol.com/wp-content/uploads/2026/10/NaN-Hyena-Sunset-Medium.woff2') format('woff2'),
+		url('https://zymvol.com/wp-content/uploads/2026/10/NaN-Hyena-Sunset-Medium.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */
+.elementor-2427 .elementor-element.elementor-element-621466a{--spacer-size:50px;}#elementor-popup-modal-2427 .dialog-widget-content{background-color:#FFFFFF00;box-shadow:2px 8px 23px 3px rgba(0,0,0,0.2);}#elementor-popup-modal-2427{background-color:rgba(0,0,0,.8);justify-content:center;align-items:center;pointer-events:all;}#elementor-popup-modal-2427 .dialog-message{width:640px;height:auto;}#elementor-popup-modal-2427 .dialog-close-button{display:flex;}/* Start custom CSS for html, class: .elementor-element-3f0d72b */.elementor-widget-html.custom-zymvol-form .hs-form,
+.elementor-widget-html.custom-zymvol-form .hs-form label,
+.elementor-widget-html.custom-zymvol-form .hs-form .hs-richtext {
+    font-family: 'Lato', sans-serif;
+    color: #292753;
+}
+
+/* Base Input Styling: Bottom Borders Only */
+.elementor-widget-html.custom-zymvol-form .hs-form input[type="text"],
+.elementor-widget-html.custom-zymvol-form .hs-form input[type="email"],
+.elementor-widget-html.custom-zymvol-form .hs-form textarea,
+.elementor-widget-html.custom-zymvol-form .hs-form select {
+    background-color: transparent;
+    border: none;
+    border-bottom: 1px solid #292753;
+    border-radius: 0;
+    color: #292753;
+    width: 100%;
+    padding: 12px 0;
+    margin-bottom: 24px;
+    box-shadow: none;
+    outline: none;
+    font-size: 16px;
+    font-family: 'Lato', sans-serif;
+}
+
+/* Remove background from autofill */
+.elementor-widget-html.custom-zymvol-form .hs-form input:-webkit-autofill {
+    -webkit-box-shadow: 0 0 0 30px transparent inset;
+    -webkit-text-fill-color: #292753;
+    transition: background-color 5000s ease-in-out 0s;
+}
+
+/* Custom Select Dropdown Arrow */
+.elementor-widget-html.custom-zymvol-form .hs-form select {
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    background-image: url('data:image/svg+xml;utf8,<svg fill="%23292753" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M7 10l5 5 5-5z"/><path d="M0 0h24v24H0z" fill="none"/>');
+    background-repeat: no-repeat;
+    background-position: right 8px center;
+    cursor: pointer;
+}
+
+/* Textarea specifics */
+.elementor-widget-html.custom-zymvol-form .hs-form textarea {
+    resize: vertical;
+    min-height: 40px;
+}
+
+/* Hide default labels assuming placeholders are used */
+.elementor-widget-html.custom-zymvol-form .hs-form .hs-form-field > label {
+    display: none; 
+}
+
+/* Scrollable Legal Text Box (Targets HubSpot's Rich Text module) */
+.elementor-widget-html.custom-zymvol-form .hs-form .hs-richtext {
+    max-height: 120px;
+    overflow-y: auto;
+    border: 1px solid #292753;
+    border-radius: 6px;
+    padding: 12px;
+    margin-bottom: 24px;
+    font-size: 12px;
+    line-height: 1.4;
+    background-color: transparent;
+    display: block;
+}
+
+/* Scrollbar styling for Legal Box */
+.elementor-widget-html.custom-zymvol-form .hs-form .hs-richtext::-webkit-scrollbar {
+    width: 8px;
+}
+.elementor-widget-html.custom-zymvol-form .hs-form .hs-richtext::-webkit-scrollbar-thumb {
+    background-color: #292753;
+    border-radius: 4px;
+}
+
+/* Checkbox Alignment and Styling (Separated from the text box) */
+.elementor-widget-html.custom-zymvol-form .hs-form .inputs-list {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 24px 0;
+    display: block; /* Ensures it sits outside and below the rich text box */
+}
+.elementor-widget-html.custom-zymvol-form .hs-form .inputs-list li {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 16px;
+}
+.elementor-widget-html.custom-zymvol-form .hs-form input[type="checkbox"] {
+    appearance: none;
+    -webkit-appearance: none;
+    width: 18px;
+    height: 18px;
+    border: 1px solid #292753;
+    border-radius: 2px;
+    margin-right: 12px;
+    margin-top: 2px;
+    cursor: pointer;
+    background-color: transparent;
+    position: relative;
+    flex-shrink: 0;
+}
+.elementor-widget-html.custom-zymvol-form .hs-form input[type="checkbox"]:checked::after {
+    content: '✔';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #292753;
+    font-size: 12px;
+}
+.elementor-widget-html.custom-zymvol-form .hs-form .inputs-list label {
+    font-size: 13px;
+    line-height: 1.4;
+    cursor: pointer;
+}
+
+/* Submit Button */
+.elementor-widget-html.custom-zymvol-form .hs-form .hs-button {
+    background-color: #292753;
+    color: #ffffff;
+    border: none;
+    border-radius: 25px;
+    padding: 12px 32px;
+    font-size: 16px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 600;
+    cursor: pointer;
+    transition: opacity 0.3s ease;
+}
+.elementor-widget-html.custom-zymvol-form .hs-form .hs-button:hover {
+    opacity: 0.85;
+}/* End custom CSS */
 /*# sourceURL=elementor-frontend-inline-css */
 </style>
 <link rel="stylesheet" id="widget-spacer-css" href="https://zymvol.com/wp-content/plugins/elementor/assets/css/widget-spacer.min.css?ver=4.3.5" media="all">
 <link rel="stylesheet" id="e-popup-css" href="https://zymvol.com/wp-content/plugins/elementor-pro/assets/css/conditionals/popup.min.css?ver=4.3.2" media="all">
-<link rel="stylesheet" id="elementor-post-2265-css" href="https://zymvol.com/wp-content/uploads/elementor/css/post-2265.css?ver=1794329475" media="all">
 <link rel="stylesheet" id="e-animation-fadeIn-css" href="https://zymvol.com/wp-content/plugins/elementor/assets/lib/animations/styles/fadeIn.min.css?ver=4.3.5" media="all">
 <link rel="stylesheet" id="e-animation-grow-css" href="https://zymvol.com/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-grow.min.css?ver=4.3.5" media="all">
 <link rel="stylesheet" id="widget-counter-css" href="https://zymvol.com/wp-content/plugins/elementor/assets/css/widget-counter.min.css?ver=4.3.5" media="all">
 <link rel="stylesheet" id="widget-icon-box-css" href="https://zymvol.com/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css?ver=4.3.5" media="all">
-<link rel="stylesheet" id="elementor-post-2476-css" href="https://zymvol.com/wp-content/uploads/elementor/css/post-2476.css?ver=1794329475" media="all">
-<link rel="stylesheet" id="base-desktop-css" href="https://zymvol.com/wp-content/uploads/elementor/css/base-desktop.css?ver=6af34b83cafde" media="all">
-<link rel="stylesheet" id="default-desktop-css" href="https://zymvol.com/wp-content/uploads/elementor/css/default-desktop.css?ver=6af34b83cbb19" media="all">
-<link rel="stylesheet" id="local-2427-frontend-desktop-css" href="https://zymvol.com/wp-content/uploads/elementor/css/local-2427-frontend-desktop.css?ver=6af34b83cc954" media="all">
-<link rel="stylesheet" id="local-2476-frontend-desktop-css" href="https://zymvol.com/wp-content/uploads/elementor/css/local-2476-frontend-desktop.css?ver=6af34b83cd40c" media="all">
-<link rel="stylesheet" id="local-2476-frontend-tablet-css" href="https://zymvol.com/wp-content/uploads/elementor/css/local-2476-frontend-tablet.css?ver=6af34b83cd40c" media="(max-width:1024px)">
-<link rel="stylesheet" id="base-mobile-css" href="https://zymvol.com/wp-content/uploads/elementor/css/base-mobile.css?ver=6af34b83cafde" media="(max-width:767px)">
-<link rel="stylesheet" id="local-2476-frontend-mobile-css" href="https://zymvol.com/wp-content/uploads/elementor/css/local-2476-frontend-mobile.css?ver=6af34b83cd40c" media="(max-width:767px)">
-<link rel="stylesheet" id="elementor-post-2427-css" href="https://zymvol.com/wp-content/uploads/elementor/css/post-2427.css?ver=1794329476" media="all">
+<link rel="stylesheet" id="base-desktop-css" href="https://zymvol.com/wp-content/uploads/elementor/css/base-desktop.css?ver=6af5811b7e252" media="all">
+<link rel="stylesheet" id="default-desktop-css" href="https://zymvol.com/wp-content/uploads/elementor/css/default-desktop.css?ver=6af5811b7ed25" media="all">
+<link rel="stylesheet" id="local-2427-frontend-desktop-css" href="https://zymvol.com/wp-content/uploads/elementor/css/local-2427-frontend-desktop.css?ver=6af5811b7f817" media="all">
+<link rel="stylesheet" id="local-2476-frontend-desktop-css" href="https://zymvol.com/wp-content/uploads/elementor/css/local-2476-frontend-desktop.css?ver=6af5815e0243d" media="all">
+<link rel="stylesheet" id="local-2476-frontend-tablet-css" href="https://zymvol.com/wp-content/uploads/elementor/css/local-2476-frontend-tablet.css?ver=6af5815e0243d" media="(max-width:1024px)">
+<link rel="stylesheet" id="base-mobile-css" href="https://zymvol.com/wp-content/uploads/elementor/css/base-mobile.css?ver=6af5811b7e252" media="(max-width:767px)">
+<link rel="stylesheet" id="local-2476-frontend-mobile-css" href="https://zymvol.com/wp-content/uploads/elementor/css/local-2476-frontend-mobile.css?ver=6af5815e0243d" media="(max-width:767px)">
 <style id="elementor-pro-custom-fonts-inline-css">
 @font-face {
 	font-family: 'NaN Hyena Sunset Medium';
@@ -126,7 +418,7 @@ var _ckyStyles = {"css":".cky-overlay{background: #000000; opacity: 0.4; positio
 <script id="jquery-core-js" src="https://zymvol.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"></script>
 <script id="jquery-migrate-js" src="https://zymvol.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1"></script>
 <script id="scripts-js-extra">
-var wp_helper = {"home_url":"https://zymvol.com","home_path":"https://zymvol.com/wp-content/themes/zymvol","ajax_url":"https://zymvol.com/wp-admin/admin-ajax.php","nonce":"627c6518bf"};
+var wp_helper = {"home_url":"https://zymvol.com","home_path":"https://zymvol.com/wp-content/themes/zymvol","ajax_url":"https://zymvol.com/wp-admin/admin-ajax.php","nonce":"2d7f1f5e28"};
 //# sourceURL=scripts-js-extra
 </script>
 <script id="scripts-js" src="https://zymvol.com/wp-content/themes/zymvol/js/scripts.js?ver=7.1.4"></script>
@@ -138,7 +430,7 @@ var wp_helper = {"home_url":"https://zymvol.com","home_path":"https://zymvol.com
 <script type="text/javascript" id="hs-script-loader" async defer src="//js-eu1.hs-scripts.com/144624214.js"></script>
 <!-- End of HubSpot Embed Code -->			                <meta name="ssp-config-path" content="/wp-content/uploads/simply-static/configs/">
 			
-						<meta name="generator" content="Elementor 4.3.5; features: e_font_icon_svg, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap">
+						<meta name="generator" content="Elementor 4.3.5; features: e_font_icon_svg, additional_custom_breakpoints; settings: css_print_method-internal, google_font-enabled, font_display-swap">
 			<style>
 				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
 				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
@@ -2028,7 +2320,7 @@ jQuery.uiBackCompat = true;
 </script>
 <script id="jquery-ui-core-js" src="https://zymvol.com/wp-includes/js/jquery/ui/core.min.js?ver=1.14.2"></script>
 <script id="elementor-frontend-js-before">
-var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnX":"Share on X","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},"hasCustomBreakpoints":false},"version":"4.3.5","is_static":false,"experimentalFeatures":{"e_font_icon_svg":true,"additional_custom_breakpoints":true,"container":true,"e_optimized_markup":true,"theme_builder_v2":true,"nested-elements":true,"e_atomic_elements":true,"e_opt_in_v4":true,"import-export-customization":true,"e_pro_atomic_form":true,"e_pro_collection_loop":true,"mega-menu":true},"urls":{"assets":"https:\/\/zymvol.com\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/zymvol.com\/wp-admin\/admin-ajax.php","uploadUrl":"https:\/\/zymvol.com\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"33b5d8a5c0","atomicFormsSendForm":"6f5d6e5169"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":2476,"title":"Immobilized%20lipase%20for%20esterification%20%7C%20Request%20a%20sample","excerpt":"","featuredImage":false}};
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnX":"Share on X","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},"hasCustomBreakpoints":false},"version":"4.3.5","is_static":false,"experimentalFeatures":{"e_font_icon_svg":true,"additional_custom_breakpoints":true,"container":true,"e_optimized_markup":true,"theme_builder_v2":true,"nested-elements":true,"e_atomic_elements":true,"e_opt_in_v4":true,"import-export-customization":true,"e_pro_atomic_form":true,"e_pro_collection_loop":true,"mega-menu":true},"urls":{"assets":"https:\/\/zymvol.com\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/zymvol.com\/wp-admin\/admin-ajax.php","uploadUrl":"https:\/\/zymvol.com\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"5d3ad0f6a0","atomicFormsSendForm":"f5e732d909"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":2476,"title":"Immobilized%20lipase%20for%20esterification%20%7C%20Request%20a%20sample","excerpt":"","featuredImage":false}};
 //# sourceURL=elementor-frontend-js-before
 </script>
 <script id="elementor-frontend-js" src="https://zymvol.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=4.3.5"></script>
@@ -2046,7 +2338,7 @@ wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
 //# sourceURL=wp-i18n-js-after
 </script>
 <script id="elementor-pro-frontend-js-before">
-var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/zymvol.com\/wp-admin\/admin-ajax.php","nonce":"109fd21429","urls":{"assets":"https:\/\/zymvol.com\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/zymvol.com\/wp-json\/"},"settings":{"lazy_load_background_images":true},"popup":{"hasPopUps":true},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/zymvol.com\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/zymvol.com\/wp-admin\/admin-ajax.php","nonce":"396a618126","urls":{"assets":"https:\/\/zymvol.com\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/zymvol.com\/wp-json\/"},"settings":{"lazy_load_background_images":true},"popup":{"hasPopUps":true},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/zymvol.com\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
 //# sourceURL=elementor-pro-frontend-js-before
 </script>
 <script id="elementor-pro-frontend-js" src="https://zymvol.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=4.3.2"></script>
