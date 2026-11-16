@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- This sitemap was dynamically generated on November 13, 2026 at 11:51 am by All in One SEO v4.8.7 - the original SEO plugin for WordPress. -->
+<!-- This sitemap was dynamically generated on November 16, 2026 at 4:20 pm by All in One SEO v4.8.7 - the original SEO plugin for WordPress. -->
 
 <?xml-stylesheet type="text/xsl" href="https://zymvol.com/main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
 		<loc><![CDATA[https://zymvol.com/page-sitemap.xml]]></loc>
-		<lastmod><![CDATA[2026-11-13T11:49:03+00:00]]></lastmod>
+		<lastmod><![CDATA[2026-11-16T15:21:10+00:00]]></lastmod>
 	</sitemap>
 	<sitemap>
 		<loc><![CDATA[https://zymvol.com/attachment-sitemap.xml]]></loc>
 		<lastmod><![CDATA[2026-11-13T11:48:33+00:00]]></lastmod>
+	</sitemap>
+	<sitemap>
+		<loc><![CDATA[https://zymvol.com/e-floating-buttons-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2026-11-16T16:18:01+00:00]]></lastmod>
 	</sitemap>
 	<sitemap>
 		<loc><![CDATA[https://zymvol.com/ssp-form-sitemap.xml]]></loc>

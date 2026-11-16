@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- This sitemap was dynamically generated on November 13, 2026 at 11:51 am by All in One SEO v4.8.7 - the original SEO plugin for WordPress. -->
+<!-- This sitemap was dynamically generated on November 16, 2026 at 4:20 pm by All in One SEO v4.8.7 - the original SEO plugin for WordPress. -->
 
 <?xml-stylesheet type="text/xsl" href="https://zymvol.com/main-sitemap.xsl"?>
 <urlset
@@ -12,6 +12,10 @@
 		<lastmod><![CDATA[2026-11-13T11:48:33+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://zymvol.com/wp-content/uploads/2026/11/Meta_ImmoLipase11-1.png]]>			</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc><![CDATA[https://zymvol.com/solutions/immo-lipase11/drink_10885822/]]></loc>
@@ -4346,16 +4350,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[https://zymvol.com/knowledge-hub/press-release-zymvol-and-aminoverse-collaboration/pr_04/]]></loc>
-		<lastmod><![CDATA[2025-09-22T22:41:16+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc>
-				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/09/PR_04.png]]>			</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc><![CDATA[https://zymvol.com/knowledge-hub/all-you-need-to-know-about-enzymes/enzyme_amino_acids_/]]></loc>
 		<lastmod><![CDATA[2025-09-22T22:41:16+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
@@ -4363,6 +4357,16 @@
 		<image:image>
 			<image:loc>
 				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/09/enzyme_amino_acids_.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://zymvol.com/knowledge-hub/press-release-zymvol-and-aminoverse-collaboration/pr_04/]]></loc>
+		<lastmod><![CDATA[2025-09-22T22:41:16+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/09/PR_04.png]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -4576,16 +4580,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[https://zymvol.com/knowledge-hub/zymvol-biomodeling-in-the-footsteps-of-chemistry-nobel-prize-winner-frances-h-arnold/03ec6cbdd9bc7e958d215fef2aaddf70b6cc7f19/]]></loc>
-		<lastmod><![CDATA[2025-09-22T22:40:56+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc>
-				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/09/03ec6cbdd9bc7e958d215fef2aaddf70b6cc7f19.jpeg]]>			</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc><![CDATA[https://zymvol.com/knowledge-hub/leconomic/barcelona-fotografia-de-grup-dstart-ups-catalanes-que-creixeran-molt-en-poc-temps-es-fa-pel-nove-aniversari-de-leconomic/]]></loc>
 		<lastmod><![CDATA[2025-09-22T22:40:56+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
@@ -4603,6 +4597,16 @@
 		<image:image>
 			<image:loc>
 				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/09/780_0008_5854213_d008a96f0afd3c84401a2730475b27b0.jpg]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://zymvol.com/knowledge-hub/zymvol-biomodeling-in-the-footsteps-of-chemistry-nobel-prize-winner-frances-h-arnold/03ec6cbdd9bc7e958d215fef2aaddf70b6cc7f19/]]></loc>
+		<lastmod><![CDATA[2025-09-22T22:40:56+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/09/03ec6cbdd9bc7e958d215fef2aaddf70b6cc7f19.jpeg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
