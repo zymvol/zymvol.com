@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- This sitemap was dynamically generated on November 16, 2026 at 5:02 pm by All in One SEO v4.8.7 - the original SEO plugin for WordPress. -->
+<!-- This sitemap was dynamically generated on November 19, 2026 at 11:41 am by All in One SEO v4.8.7 - the original SEO plugin for WordPress. -->
 
 <?xml-stylesheet type="text/xsl" href="https://zymvol.com/main-sitemap.xsl"?>
 <urlset
@@ -7,6 +7,46 @@
 	xmlns:xhtml="http://www.w3.org/1999/xhtml"
 	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
 >
+	<url>
+		<loc><![CDATA[https://zymvol.com/bio_valeriagonzalez/]]></loc>
+		<lastmod><![CDATA[2026-11-18T17:25:17+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://zymvol.com/wp-content/uploads/2026/11/Bio_ValeriaGonzalez.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://zymvol.com/knowledge-hub/immo-lipase-11-ester-synthesis/blog_immolipase11_/]]></loc>
+		<lastmod><![CDATA[2026-11-18T17:11:54+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://zymvol.com/wp-content/uploads/2026/11/Blog_ImmoLipase11_.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://zymvol.com/knowledge-hub/immo-lipase-11-ester-synthesis/blog_immolipase11/]]></loc>
+		<lastmod><![CDATA[2026-11-18T17:00:51+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://zymvol.com/wp-content/uploads/2026/11/Blog_ImmoLipase11.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://zymvol.com/knowledge-hub/immo-lipase-11-ester-synthesis/immolipase11_zymvol_table/]]></loc>
+		<lastmod><![CDATA[2026-11-18T16:40:02+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://zymvol.com/wp-content/uploads/2026/11/ImmoLipase11_Zymvol_Table.png]]>			</image:loc>
+		</image:image>
+	</url>
 	<url>
 		<loc><![CDATA[https://zymvol.com/meta_immolipase11-1/]]></loc>
 		<lastmod><![CDATA[2026-11-13T11:48:33+00:00]]></lastmod>
@@ -6313,16 +6353,6 @@
 		<image:image>
 			<image:loc>
 				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/img-20-m.webp]]>			</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc><![CDATA[https://zymvol.com/img-22/]]></loc>
-		<lastmod><![CDATA[2025-08-14T11:57:12+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc>
-				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/08/img-22.webp]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
