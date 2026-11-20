@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- This sitemap was dynamically generated on November 19, 2026 at 11:41 am by All in One SEO v4.8.7 - the original SEO plugin for WordPress. -->
+<!-- This sitemap was dynamically generated on November 20, 2026 at 11:18 am by All in One SEO v4.8.7 - the original SEO plugin for WordPress. -->
 
 <?xml-stylesheet type="text/xsl" href="https://zymvol.com/main-sitemap.xsl"?>
 <urlset
@@ -7,6 +7,126 @@
 	xmlns:xhtml="http://www.w3.org/1999/xhtml"
 	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
 >
+	<url>
+		<loc><![CDATA[https://zymvol.com/knowledge-hub/whitepaper-feasibility-engine-our-secret-to-evaluating-enzymatic-routes-before-entering-the-lab/whitepaper_feasibilityengine/]]></loc>
+		<lastmod><![CDATA[2026-11-20T11:15:19+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://zymvol.com/wp-content/uploads/2026/06/Whitepaper_FeasibilityEngine.png]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://zymvol.com/zymvol_lab/]]></loc>
+		<lastmod><![CDATA[2026-11-20T10:56:25+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://zymvol.com/wp-content/uploads/2026/11/Zymvol_Lab.webp]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://zymvol.com/shape-3-blocks-diagonal-fill/]]></loc>
+		<lastmod><![CDATA[2026-11-20T10:53:23+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://zymvol.com/wp-content/uploads/2026/11/Shape-3-blocks-diagonal-fill.webp]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://zymvol.com/stories/metagenomic-ketoreductase-discovery/successstory_zymvol_novel-ketoreductases-2/]]></loc>
+		<lastmod><![CDATA[2026-11-20T10:48:07+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://zymvol.com/wp-content/uploads/2026/09/SuccessStory_Zymvol_Novel-Ketoreductases-2.webp]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://zymvol.com/stories/pharmaceutical-cofactor-regeneration-biocatalysis/successstory_zymvol_cofactor-regenaration-pharma/]]></loc>
+		<lastmod><![CDATA[2026-11-20T10:46:05+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://zymvol.com/wp-content/uploads/2026/05/SuccessStory_Zymvol_Cofactor-Regenaration-Pharma.webp]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://zymvol.com/stories/sustainable-vanillin-production-distal-mutations/successstory_zymvol_03/]]></loc>
+		<lastmod><![CDATA[2026-11-20T10:45:34+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://zymvol.com/wp-content/uploads/2026/03/SuccessStory_Zymvol_03.webp]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://zymvol.com/stories/fto-api-production/successstory_zymvol_01_/]]></loc>
+		<lastmod><![CDATA[2026-11-20T10:45:05+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://zymvol.com/wp-content/uploads/2026/03/SuccessStory_Zymvol_01_.webp]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://zymvol.com/stories/identifying-a-high-performing-kred-for-api-synthesis/successstory_zymvol_02/]]></loc>
+		<lastmod><![CDATA[2026-11-20T10:44:05+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://zymvol.com/wp-content/uploads/2025/09/SuccessStory_Zymvol_02.webp]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://zymvol.com/stories/petase-room-temperature-enzyme-engineering/successstory_zymvol_petase-room-temperature_/]]></loc>
+		<lastmod><![CDATA[2026-11-20T10:38:02+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://zymvol.com/wp-content/uploads/2026/11/SuccessStory_Zymvol_PETase-Room-Temperature_.webp]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://zymvol.com/stories/ene-reductase-optimization-pharma/successstory_zymvol_enereductase-discovery-optimization/]]></loc>
+		<lastmod><![CDATA[2026-11-20T10:29:57+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://zymvol.com/wp-content/uploads/2026/11/SuccessStory_Zymvol_Enereductase-Discovery-Optimization.webp]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://zymvol.com/960px-mit_logo_and_wordmark-svg/]]></loc>
+		<lastmod><![CDATA[2026-11-20T09:05:42+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://zymvol.com/wp-content/uploads/2026/11/960px-MIT_Logo_and_Wordmark.svg.webp]]>			</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://zymvol.com/university-of-colorado-boulder-logo/]]></loc>
+		<lastmod><![CDATA[2026-11-20T08:54:59+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc>
+				<![CDATA[https://zymvol.com/wp-content/uploads/2026/11/University-of-Colorado-Boulder-Logo.png]]>			</image:loc>
+		</image:image>
+	</url>
 	<url>
 		<loc><![CDATA[https://zymvol.com/bio_valeriagonzalez/]]></loc>
 		<lastmod><![CDATA[2026-11-18T17:25:17+00:00]]></lastmod>
@@ -25,16 +145,6 @@
 		<image:image>
 			<image:loc>
 				<![CDATA[https://zymvol.com/wp-content/uploads/2026/11/Blog_ImmoLipase11_.png]]>			</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc><![CDATA[https://zymvol.com/knowledge-hub/immo-lipase-11-ester-synthesis/blog_immolipase11/]]></loc>
-		<lastmod><![CDATA[2026-11-18T17:00:51+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc>
-				<![CDATA[https://zymvol.com/wp-content/uploads/2026/11/Blog_ImmoLipase11.png]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -68,16 +178,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[https://zymvol.com/shape-3-blocks-diagonal-fill/]]></loc>
-		<lastmod><![CDATA[2026-11-09T15:02:22+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc>
-				<![CDATA[https://zymvol.com/wp-content/uploads/2026/11/Shape-3-blocks-diagonal-fill.png]]>			</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc><![CDATA[https://zymvol.com/shape-curved-fill_orange/]]></loc>
 		<lastmod><![CDATA[2026-11-09T14:56:54+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
@@ -108,16 +208,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[https://zymvol.com/zymvol_lab/]]></loc>
-		<lastmod><![CDATA[2026-11-06T16:06:41+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc>
-				<![CDATA[https://zymvol.com/wp-content/uploads/2026/11/Zymvol_Lab.png]]>			</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc><![CDATA[https://zymvol.com/scientists-working-with-large-vat-lab-1-1/]]></loc>
 		<lastmod><![CDATA[2026-11-06T14:52:28+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
@@ -125,36 +215,6 @@
 		<image:image>
 			<image:loc>
 				<![CDATA[https://zymvol.com/wp-content/uploads/2026/11/scientists-working-with-large-vat-lab-1-1.png]]>			</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc><![CDATA[https://zymvol.com/2041-1/]]></loc>
-		<lastmod><![CDATA[2026-11-05T11:06:02+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc>
-				<![CDATA[https://zymvol.com/wp-content/uploads/2026/11/2041-1.png]]>			</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc><![CDATA[https://zymvol.com/sorting-conveyor-3d-illustration/]]></loc>
-		<lastmod><![CDATA[2026-11-05T11:01:56+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc>
-				<![CDATA[https://zymvol.com/wp-content/uploads/2026/11/sorting-conveyor-3d-illustration.png]]>			</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc><![CDATA[https://zymvol.com/logistics-worker-managing-conveyor-belt-system-with-boxes/]]></loc>
-		<lastmod><![CDATA[2026-11-05T11:01:28+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc>
-				<![CDATA[https://zymvol.com/wp-content/uploads/2026/11/logistics-worker-managing-conveyor-belt-system-with-boxes.png]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -170,176 +230,6 @@
 		<priority><![CDATA[0.7]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[https://zymvol.com/04d_zymvol-1/]]></loc>
-		<lastmod><![CDATA[2026-10-21T10:29:31+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc>
-				<![CDATA[https://zymvol.com/wp-content/uploads/2026/10/04D_Zymvol-1.png]]>			</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc><![CDATA[https://zymvol.com/03d_zymvol-1/]]></loc>
-		<lastmod><![CDATA[2026-10-21T10:29:31+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc>
-				<![CDATA[https://zymvol.com/wp-content/uploads/2026/10/03D_Zymvol-1.png]]>			</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc><![CDATA[https://zymvol.com/02d_zymvol-1/]]></loc>
-		<lastmod><![CDATA[2026-10-21T10:29:31+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc>
-				<![CDATA[https://zymvol.com/wp-content/uploads/2026/10/02D_Zymvol-1.png]]>			</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc><![CDATA[https://zymvol.com/01d_zymvol-1/]]></loc>
-		<lastmod><![CDATA[2026-10-21T10:29:30+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc>
-				<![CDATA[https://zymvol.com/wp-content/uploads/2026/10/01D_Zymvol-1.png]]>			</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc><![CDATA[https://zymvol.com/02c_zymvol/]]></loc>
-		<lastmod><![CDATA[2026-10-21T10:23:36+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc>
-				<![CDATA[https://zymvol.com/wp-content/uploads/2026/10/02C_Zymvol.png]]>			</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc><![CDATA[https://zymvol.com/01c_zymvol/]]></loc>
-		<lastmod><![CDATA[2026-10-21T10:23:31+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc>
-				<![CDATA[https://zymvol.com/wp-content/uploads/2026/10/01C_Zymvol.png]]>			</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc><![CDATA[https://zymvol.com/03c_zymvol/]]></loc>
-		<lastmod><![CDATA[2026-10-21T10:23:31+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc>
-				<![CDATA[https://zymvol.com/wp-content/uploads/2026/10/03C_Zymvol.png]]>			</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc><![CDATA[https://zymvol.com/04c_zymvol/]]></loc>
-		<lastmod><![CDATA[2026-10-21T10:23:31+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc>
-				<![CDATA[https://zymvol.com/wp-content/uploads/2026/10/04C_Zymvol.png]]>			</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc><![CDATA[https://zymvol.com/03b_zymvol/]]></loc>
-		<lastmod><![CDATA[2026-10-21T10:18:42+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc>
-				<![CDATA[https://zymvol.com/wp-content/uploads/2026/10/03B_Zymvol.png]]>			</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc><![CDATA[https://zymvol.com/02b_zymvol/]]></loc>
-		<lastmod><![CDATA[2026-10-21T10:18:42+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc>
-				<![CDATA[https://zymvol.com/wp-content/uploads/2026/10/02B_Zymvol.png]]>			</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc><![CDATA[https://zymvol.com/01b_zymvol/]]></loc>
-		<lastmod><![CDATA[2026-10-21T10:18:42+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc>
-				<![CDATA[https://zymvol.com/wp-content/uploads/2026/10/01B_Zymvol.png]]>			</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc><![CDATA[https://zymvol.com/04b_zymvol/]]></loc>
-		<lastmod><![CDATA[2026-10-21T10:18:41+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc>
-				<![CDATA[https://zymvol.com/wp-content/uploads/2026/10/04B_Zymvol.png]]>			</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc><![CDATA[https://zymvol.com/02a_zymvol/]]></loc>
-		<lastmod><![CDATA[2026-10-21T10:17:37+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc>
-				<![CDATA[https://zymvol.com/wp-content/uploads/2026/10/02A_Zymvol.png]]>			</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc><![CDATA[https://zymvol.com/03a_zymvol/]]></loc>
-		<lastmod><![CDATA[2026-10-21T10:17:37+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc>
-				<![CDATA[https://zymvol.com/wp-content/uploads/2026/10/03A_Zymvol.png]]>			</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc><![CDATA[https://zymvol.com/04a_zymvol/]]></loc>
-		<lastmod><![CDATA[2026-10-21T10:17:37+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc>
-				<![CDATA[https://zymvol.com/wp-content/uploads/2026/10/04A_Zymvol.png]]>			</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc><![CDATA[https://zymvol.com/01a_zymvol/]]></loc>
-		<lastmod><![CDATA[2026-10-21T10:17:36+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc>
-				<![CDATA[https://zymvol.com/wp-content/uploads/2026/10/01A_Zymvol.png]]>			</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc><![CDATA[https://zymvol.com/marketing-agency-hero-3-jpg/]]></loc>
-		<lastmod><![CDATA[2026-10-20T13:55:50+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc>
-				<![CDATA[https://zymvol.com/wp-content/uploads/2026/10/Marketing-Agency-Hero-3.jpg]]>			</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc><![CDATA[https://zymvol.com/placeholder-314-png/]]></loc>
 		<lastmod><![CDATA[2026-10-20T13:23:22+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
@@ -347,46 +237,6 @@
 		<image:image>
 			<image:loc>
 				<![CDATA[https://zymvol.com/wp-content/uploads/2026/10/placeholder-314.png]]>			</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc><![CDATA[https://zymvol.com/frame-2/]]></loc>
-		<lastmod><![CDATA[2026-10-20T12:41:30+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc>
-				<![CDATA[https://zymvol.com/wp-content/uploads/2026/10/Frame-2.png]]>			</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc><![CDATA[https://zymvol.com/frame-1/]]></loc>
-		<lastmod><![CDATA[2026-10-20T12:39:56+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc>
-				<![CDATA[https://zymvol.com/wp-content/uploads/2026/10/Frame-1.png]]>			</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc><![CDATA[https://zymvol.com/workshop_ceramic_team_img_3-jpg/]]></loc>
-		<lastmod><![CDATA[2026-10-15T12:13:01+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc>
-				<![CDATA[https://zymvol.com/wp-content/uploads/2026/10/workshop_ceramic_team_img_3.jpg]]>			</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc><![CDATA[https://zymvol.com/workshop_ceramic_team_img_4-jpg/]]></loc>
-		<lastmod><![CDATA[2026-10-15T12:13:00+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc>
-				<![CDATA[https://zymvol.com/wp-content/uploads/2026/10/workshop_ceramic_team_img_4.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -400,16 +250,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[https://zymvol.com/workshop_ceramic_team_img_1-jpg/]]></loc>
-		<lastmod><![CDATA[2026-10-15T12:12:59+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc>
-				<![CDATA[https://zymvol.com/wp-content/uploads/2026/10/workshop_ceramic_team_img_1.jpg]]>			</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc><![CDATA[https://zymvol.com/placeholder-25-png/]]></loc>
 		<lastmod><![CDATA[2026-10-15T12:12:59+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
@@ -417,16 +257,6 @@
 		<image:image>
 			<image:loc>
 				<![CDATA[https://zymvol.com/wp-content/uploads/2026/10/placeholder-25.png]]>			</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc><![CDATA[https://zymvol.com/workshop_ceramic_team_img_2-jpg/]]></loc>
-		<lastmod><![CDATA[2026-10-15T12:12:59+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc>
-				<![CDATA[https://zymvol.com/wp-content/uploads/2026/10/workshop_ceramic_team_img_2.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -489,26 +319,6 @@
 		<image:image>
 			<image:loc>
 				<![CDATA[https://zymvol.com/wp-content/uploads/2026/09/Blog_BioprocessChallenges.png]]>			</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc><![CDATA[https://zymvol.com/stories/metagenomic-ketoreductase-discovery/successstory_zymvol_novel-ketoreductases-2/]]></loc>
-		<lastmod><![CDATA[2026-09-15T09:34:52+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc>
-				<![CDATA[https://zymvol.com/wp-content/uploads/2026/09/SuccessStory_Zymvol_Novel-Ketoreductases-2.png]]>			</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc><![CDATA[https://zymvol.com/stories/metagenomic-ketoreductase-discovery/successstory_zymvol_novel-ketoreductases-1/]]></loc>
-		<lastmod><![CDATA[2026-09-15T09:33:10+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc>
-				<![CDATA[https://zymvol.com/wp-content/uploads/2026/09/SuccessStory_Zymvol_Novel-Ketoreductases-1.png]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -621,26 +431,6 @@
 		<image:image>
 			<image:loc>
 				<![CDATA[https://zymvol.com/wp-content/uploads/2026/03/06_SuccessStory_Zymvol_Image_2.png]]>			</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc><![CDATA[https://zymvol.com/knowledge-hub/whitepaper-feasibility-engine-our-secret-to-evaluating-enzymatic-routes-before-entering-the-lab/whitepaper_feasibilityengine/]]></loc>
-		<lastmod><![CDATA[2026-06-16T08:21:12+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc>
-				<![CDATA[https://zymvol.com/wp-content/uploads/2026/06/Whitepaper_FeasibilityEngine.png]]>			</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc><![CDATA[https://zymvol.com/knowledge-hub/whitepaper-feasibility-engine-our-secret-to-evaluating-enzymatic-routes-before-entering-the-lab/blog_whitepaperfeasibility_/]]></loc>
-		<lastmod><![CDATA[2026-06-05T08:34:08+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc>
-				<![CDATA[https://zymvol.com/wp-content/uploads/2026/06/Blog_WhitepaperFeasibility_.png]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -980,36 +770,6 @@
 		<priority><![CDATA[0.7]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[https://zymvol.com/test_whitepapercover/]]></loc>
-		<lastmod><![CDATA[2026-05-12T09:32:24+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc>
-				<![CDATA[https://zymvol.com/wp-content/uploads/2026/05/Test_WhitepaperCover.png]]>			</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc><![CDATA[https://zymvol.com/knowledge-hub/whitepaper-feasibility-engine-our-secret-to-evaluating-enzymatic-routes-before-entering-the-lab/blog_whitepaperfeasibility_test_2/]]></loc>
-		<lastmod><![CDATA[2026-05-12T09:29:13+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc>
-				<![CDATA[https://zymvol.com/wp-content/uploads/2026/05/Blog_WhitepaperFeasibility_test_2.png]]>			</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc><![CDATA[https://zymvol.com/stories/pharmaceutical-cofactor-regeneration-biocatalysis/successstory_zymvol_cofactor-regenaration-pharma/]]></loc>
-		<lastmod><![CDATA[2026-05-05T09:01:04+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc>
-				<![CDATA[https://zymvol.com/wp-content/uploads/2026/05/SuccessStory_Zymvol_Cofactor-Regenaration-Pharma.png]]>			</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc><![CDATA[https://zymvol.com/universitypavia2/]]></loc>
 		<lastmod><![CDATA[2026-04-16T15:09:20+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
@@ -1077,46 +837,6 @@
 		<image:image>
 			<image:loc>
 				<![CDATA[https://zymvol.com/wp-content/uploads/2026/04/UniversityGroningen.png]]>			</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc><![CDATA[https://zymvol.com/stories/sustainable-vanillin-production-distal-mutations/successstory_zymvol_03/]]></loc>
-		<lastmod><![CDATA[2026-03-31T13:15:55+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc>
-				<![CDATA[https://zymvol.com/wp-content/uploads/2026/03/SuccessStory_Zymvol_03.png]]>			</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc><![CDATA[https://zymvol.com/stories/fto-api-production/successstory_zymvol_01_/]]></loc>
-		<lastmod><![CDATA[2026-03-31T11:13:07+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc>
-				<![CDATA[https://zymvol.com/wp-content/uploads/2026/03/SuccessStory_Zymvol_01_.png]]>			</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc><![CDATA[https://zymvol.com/stories/identifying-a-high-performing-kred-for-api-synthesis/successstory_zymvol_02/]]></loc>
-		<lastmod><![CDATA[2026-03-31T10:53:20+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc>
-				<![CDATA[https://zymvol.com/wp-content/uploads/2025/09/SuccessStory_Zymvol_02.png]]>			</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc><![CDATA[https://zymvol.com/stories/fto-api-production/successstory_zymvol_01/]]></loc>
-		<lastmod><![CDATA[2026-03-31T10:50:17+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc>
-				<![CDATA[https://zymvol.com/wp-content/uploads/2026/03/SuccessStory_Zymvol_01.png]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -1297,16 +1017,6 @@
 		<image:image>
 			<image:loc>
 				<![CDATA[https://zymvol.com/wp-content/uploads/2025/12/ArticleCover_01.png]]>			</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc><![CDATA[https://zymvol.com/knowledge-hub/physics-vs-ai-interpretability-enzyme-design/article-image-b/]]></loc>
-		<lastmod><![CDATA[2025-12-19T09:46:25+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc>
-				<![CDATA[https://zymvol.com/wp-content/uploads/2025/12/Article-image-B.png]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -5147,26 +4857,6 @@
 		<image:image>
 			<image:loc>
 				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/09/chemical-laboratory-scaled.jpg]]>			</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc><![CDATA[https://zymvol.com/stories/increasing-success-rates-with-early-feasibility-prediction/green-disco-wall-background-in-neon-led-dot-lighting-pipes-and-lamps-on-the-wall-light-bulbs-pattern-led-decoration-lights-idea-on-wall-modern-decoration/]]></loc>
-		<lastmod><![CDATA[2025-09-12T09:19:54+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc>
-				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/09/green-disco-wall-background-neon-led-dot-lightingpipes-lamps-wall-light-bulbs-patternled-decoration-lights-idea-wallmodern-decoration-scaled.jpg]]>			</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc><![CDATA[https://zymvol.com/stories/increasing-success-rates-with-early-feasibility-prediction/full-frame-shot-machinery-factory/]]></loc>
-		<lastmod><![CDATA[2025-09-12T09:18:42+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc>
-				<![CDATA[https://zymvol.com/zymvol/wp-content/uploads/2025/09/full-frame-shot-machinery-factory-scaled.jpg]]>			</image:loc>
 		</image:image>
 	</url>
 	<url>
